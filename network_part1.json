@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Quyida keltirilgan kompyuter tarmoqlarining qaysi biri avval paydo bo'lgan?",
+    "answers": [
+      {"text": "global kompyuter tarmoqlari", "correct": false},
+      {"text": "lokal kompyuter tarmoqlari", "correct": true},
+      {"text": "kampuslar tarmog'i", "correct": false},
+      {"text": "korporativ tarmoqlar", "correct": false}
+    ]
+  },
+  {
+    "question": "To'rtta bir-biri bilan bog'langan bog'lamlar strukturasi (kvadrat shaklida) qaysi topologiya turiga mansub?",
+    "answers": [
+      {"text": "Xalqa", "correct": false},
+      {"text": "Yulduz", "correct": false},
+      {"text": "To'liq bog'lanishli", "correct": true},
+      {"text": "Yacheykali", "correct": false}
+    ]
+  },
+  {
+    "question": "Ketma-ket bir-biri bilan bog'langan 3 ta bog'lamlar (oxiri boshi bilan bog'lanmagan) strukturasi qaysi topologiya turiga tegishli?",
+    "answers": [
+      {"text": "Umumiy shina", "correct": true},
+      {"text": "Xalqa", "correct": false},
+      {"text": "To'liq bog'lanishli", "correct": false},
+      {"text": "Yulduz", "correct": false}
+    ]
+  },
+  {
+    "question": "Kompyuter tizimlarida ma'lumotlarni uzatish ishonchliligini oshirish qanday amal bilan bajariladi?",
+    "answers": [
+      {"text": "kontrol summani xisoblash bilan", "correct": true},
+      {"text": "ma'lumotni bir necha marta uzatish bilan", "correct": false},
+      {"text": "axborotni ishonchliligini tekshirishning majoritar usulini", "correct": false},
+      {"text": "maxsus apparat-programma vositalari yordamida", "correct": false}
+    ]
+  },
+  {
+    "question": "Qaysi topologiya birgalikda foydalanilmaydigan muhitni qo'llamasligi mumkin?",
+    "answers": [
+      {"text": "to'liq bog'lanishli", "correct": true},
+      {"text": "Xalqa", "correct": false},
+      {"text": "Yulduz", "correct": false},
+      {"text": "umumiy shina", "correct": false}
+    ]
+  },
+  {
+    "question": "Kompyuterning tashqi interfeysi deganda nima tushuniladi?",
+    "answers": [
+      {"text": "kompyuter bilan tashqi qurilmani bog'lovchi simlar va ular orqali axborot almashinish qoidalari to'plamlari", "correct": true},
+      {"text": "tashqi qurilmani kompyuterga bog'lashda ishlatiladigan ulovchi simlar", "correct": false},
+      {"text": "kompyuterning tashqi portlari", "correct": false},
+      {"text": "tashqi qurilma bilan kompyuter o'rtasida axborot almashinish qoidalari to'plami", "correct": false}
+    ]
+  },
+  {
+    "question": "Uchta o'zaro bog'langan bog'lamlardan iborat tuzilma (uchburchak shaklida) topologiyaning qaysi turiga tegishli?",
+    "answers": [
+      {"text": "To'liq bog'lanishli", "correct": true},
+      {"text": "Umumiy shina", "correct": false},
+      {"text": "Yulduz", "correct": false},
+      {"text": "Yacheykali", "correct": false}
+    ]
+  },
+  {
+    "question": "Qanday topologiyaning xususiy xoli umumiy shina xisoblanadi?",
+    "answers": [
+      {"text": "Yulduz", "correct": true},
+      {"text": "To'liq bog'lanishli", "correct": false},
+      {"text": "Xalqa", "correct": false},
+      {"text": "Yacheykali", "correct": false}
+    ]
+  },
+  {
+    "question": "Topologiyalardan qaysi biri ishonchliligi yuqori hisoblanadi?",
+    "answers": [
+      {"text": "Yulduz", "correct": false},
+      {"text": "Xalqa", "correct": false},
+      {"text": "Аralash", "correct": true},
+      {"text": "Umumiy shina", "correct": false}
+    ]
+  },
+  {
+    "question": "MAC sathi qanday vazifani bajaradi?",
+    "answers": [
+      {"text": "uzatish muhitiga murojaat qilishni boshqarish", "correct": true},
+      {"text": "stantsiyalar o'rtasida axborotni har-xil ishonchlilik darajasi bilan uzatish", "correct": false},
+      {"text": "bitlar sathida axborot uzatishni boshqarish", "correct": false},
+      {"text": "bloklar sathida axborot uzatishni boshqarish", "correct": false}
+    ]
+  }
+]

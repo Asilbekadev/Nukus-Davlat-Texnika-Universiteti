@@ -1,0 +1,1915 @@
+{
+  "web": [
+    {
+      "question": "JavaScript tilida eng bosh brauzer obekti hisoblanadi?",
+      "answers": [
+        {
+          "text": "window",
+          "correct": true
+        },
+        {
+          "text": "document",
+          "correct": false
+        },
+        {
+          "text": "parent",
+          "correct": false
+        },
+        {
+          "text": "frame",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript tilida massivlar uchun qaysi usul qo'llaniladi?",
+      "answers": [
+        {
+          "text": "uchta usul: join, reverse, sort",
+          "correct": true
+        },
+        {
+          "text": "Ikkita usul: reverse, sort",
+          "correct": false
+        },
+        {
+          "text": "To'rtta usul: anchor, bold, reverse, sort",
+          "correct": false
+        },
+        {
+          "text": "Massivlvr uchun usullar mavjud emas",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qysi usul quyi indeks sifatida tasvirlangan satrni qaytaradi?",
+      "answers": [
+        {
+          "text": "sub",
+          "correct": true
+        },
+        {
+          "text": "italics",
+          "correct": false
+        },
+        {
+          "text": "reverse",
+          "correct": false
+        },
+        {
+          "text": "fixed",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qfanday vstroenniy JavaScript stsenariyi klasi komp`yuter soati bo'yicha turli holatlarni bajarishi mumkin?",
+      "answers": [
+        {
+          "text": "Date",
+          "correct": true
+        },
+        {
+          "text": "String",
+          "correct": false
+        },
+        {
+          "text": "Math",
+          "correct": false
+        },
+        {
+          "text": "To'g`ri javob yo'q",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi usul 0 dan 1gacha oraliqdagi ixtiyoriy soni qaytaradi",
+      "answers": [
+        {
+          "text": "random",
+          "correct": true
+        },
+        {
+          "text": "sin",
+          "correct": false
+        },
+        {
+          "text": "sqrt",
+          "correct": false
+        },
+        {
+          "text": "round",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi teglar shrift teglari?",
+      "answers": [
+        {
+          "text": "TT, I, B, U",
+          "correct": true
+        },
+        {
+          "text": "META, I, B, KBD",
+          "correct": false
+        },
+        {
+          "text": "CITE, CODE, SAMP",
+          "correct": false
+        },
+        {
+          "text": "Bunday teg yo'q",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript – tili bu…",
+      "answers": [
+        {
+          "text": "statistik Web saxifalarni kushimcha funktsional imkoniyatlarini kullash uchun Netscape va Sun Microsystems larda ishlab chikilgan stsenariylar",
+          "correct": true
+        },
+        {
+          "text": "Matnni taxrirlovchi til",
+          "correct": false
+        },
+        {
+          "text": "Server kayta ishlovchi stsenariylar",
+          "correct": false
+        },
+        {
+          "text": "Web-ilovalarni ishlab chikuvchi instrumental tuplam",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qanday malumotlar mantiqiy malumotlar bo'la oladi?",
+      "answers": [
+        {
+          "text": "true va false",
+          "correct": true
+        },
+        {
+          "text": "Butun sanlar",
+          "correct": false
+        },
+        {
+          "text": "NaN",
+          "correct": false
+        },
+        {
+          "text": "A va V javoblar bo'g`ri",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript tilida qanday obektlar mavjud?",
+      "answers": [
+        {
+          "text": "vstroenniy obektlar, dasturchi o'zi yaratuvchi brauzer va obektlar obektlari",
+          "correct": true
+        },
+        {
+          "text": "dasturchi o'zi yaratuvchi brauzer va obektlar obektlari",
+          "correct": false
+        },
+        {
+          "text": "vstroenniy obektlar va nevstroenniy obektlar",
+          "correct": false
+        },
+        {
+          "text": "To'g`ri javob yo'q",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript tilida qanday vstroenniy obektlar mavjud?",
+      "answers": [
+        {
+          "text": "Array,Math, Date,Boolean",
+          "correct": true
+        },
+        {
+          "text": "document, parent, Object,Global",
+          "correct": false
+        },
+        {
+          "text": "document, location, Date, Global",
+          "correct": false
+        },
+        {
+          "text": "document, parent, frame, location",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript tilida qanday brauzer obektlari mavjud?",
+      "answers": [
+        {
+          "text": "document, parent, frame, location",
+          "correct": true
+        },
+        {
+          "text": "document, parent, Object,Global",
+          "correct": false
+        },
+        {
+          "text": "document, location, Date, Global",
+          "correct": false
+        },
+        {
+          "text": "Array,Math, Date,Boolean",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi usul yordamida ekranga ikkita OK va Cancel tugmalari bo'lgan muloqot oynasini chiqarish mumkin",
+      "answers": [
+        {
+          "text": "confirm",
+          "correct": true
+        },
+        {
+          "text": "alert",
+          "correct": false
+        },
+        {
+          "text": "prompt",
+          "correct": false
+        },
+        {
+          "text": "open",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "checkbox obekti uchun nechta va qanday usullar mavjud?",
+      "answers": [
+        {
+          "text": "bittausul: click",
+          "correct": true
+        },
+        {
+          "text": "Ikkita usul:focus i blur",
+          "correct": false
+        },
+        {
+          "text": "checkbox da usullar yo'q",
+          "correct": false
+        },
+        {
+          "text": "To'rtta usul: anchor, bold, reverse, sort",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi teg HTML xujjatning tanasini ifodalaydi?",
+      "answers": [
+        {
+          "text": "BODY",
+          "correct": true
+        },
+        {
+          "text": "HTML",
+          "correct": false
+        },
+        {
+          "text": "HEAD",
+          "correct": false
+        },
+        {
+          "text": "TITLE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi teg World Wide Web da xujjatni nomlash uchun ishlatiladi?",
+      "answers": [
+        {
+          "text": "TITLE",
+          "correct": true
+        },
+        {
+          "text": "HEAD",
+          "correct": false
+        },
+        {
+          "text": "META",
+          "correct": false
+        },
+        {
+          "text": "HTML",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi teg  xujjatni stilini ifodalash uchun ishlatiladi?",
+      "answers": [
+        {
+          "text": "STYLE",
+          "correct": true
+        },
+        {
+          "text": "HEAD",
+          "correct": false
+        },
+        {
+          "text": "ISINDEX",
+          "correct": false
+        },
+        {
+          "text": "BODY",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi teg HTML xujjatni ifodalaydi?",
+      "answers": [
+        {
+          "text": "HTML",
+          "correct": true
+        },
+        {
+          "text": "BODY",
+          "correct": false
+        },
+        {
+          "text": "META",
+          "correct": false
+        },
+        {
+          "text": "ISINDEX",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "BODY tegining kaysi atributi saxifa rangini berishda kullaniladi?",
+      "answers": [
+        {
+          "text": "bgcolor",
+          "correct": true
+        },
+        {
+          "text": "color",
+          "correct": false
+        },
+        {
+          "text": "background",
+          "correct": false
+        },
+        {
+          "text": "text",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi teg HTML xujjat sarlavxasini ifodalaydi?",
+      "answers": [
+        {
+          "text": "HEAD",
+          "correct": true
+        },
+        {
+          "text": "META",
+          "correct": false
+        },
+        {
+          "text": "TITLE",
+          "correct": false
+        },
+        {
+          "text": "BODY",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi misolda BASE tegi tugri tashkil etilgan?",
+      "answers": [
+        {
+          "text": "<BASE HREF=intuit.ru/intro.html>",
+          "correct": true
+        },
+        {
+          "text": "<BASE A HREF=intuit.ru/intro.html>",
+          "correct": false
+        },
+        {
+          "text": "<BASE A HREF=intuit.ru/intro.html target=\"new\">",
+          "correct": false
+        },
+        {
+          "text": "<BASE HREF=intuit.ru/intro.html>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "To'liq formada berilmagan gipermatnli ssilka xujjatining bazali URL ni aniqlash uchun qaysi teg xizmat qiladi?",
+      "answers": [
+        {
+          "text": "META",
+          "correct": true
+        },
+        {
+          "text": "Charset",
+          "correct": false
+        },
+        {
+          "text": "BASE",
+          "correct": false
+        },
+        {
+          "text": "SCRIPT",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Yuborilganidan sung xujjatni saklashni takiklash … orkali amalga oshiriladi",
+      "answers": [
+        {
+          "text": "<META HTTP =\"Cache-Control\" CONTENT=\"no-store\">",
+          "correct": true
+        },
+        {
+          "text": "<META HTTP-EQUIV=\"Cache-Control\" CONTENT=\"no-cache\">",
+          "correct": false
+        },
+        {
+          "text": "<META HTTP-EQUIV=\"Cache-Control\" CONTENT=\"no-store\">",
+          "correct": false
+        },
+        {
+          "text": "<META HTTP =\"Cache-Control\" CONTENT=\"no-store\">",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Notugri kursatilgan gipersselkalarni kursating.",
+      "answers": [
+        {
+          "text": "<a TARGET=intuit.htm href=new>intuit</a>",
+          "correct": true
+        },
+        {
+          "text": "<a HREF=intuit.htm>intuit</a>",
+          "correct": false
+        },
+        {
+          "text": "<a HREF=intuit.htm TARGET=left>intuit</a>",
+          "correct": false
+        },
+        {
+          "text": "<a> <TARGET=intuit.htm href=new>intuit</a>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sahifa fonini to'g`ri ko'rsatish variantini ko'rsating.",
+      "answers": [
+        {
+          "text": "<body bgcolor=\"yellow\">",
+          "correct": true
+        },
+        {
+          "text": "<body color=\"yellow\">",
+          "correct": false
+        },
+        {
+          "text": "<body background=\"yellow\">",
+          "correct": false
+        },
+        {
+          "text": "<body text=\"yellow\">",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi teglardan qaysi biri ro'yxatni nomerlash uchun ishlatiladi?",
+      "answers": [
+        {
+          "text": "OL",
+          "correct": true
+        },
+        {
+          "text": "UL",
+          "correct": false
+        },
+        {
+          "text": "DL",
+          "correct": false
+        },
+        {
+          "text": "TT",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Gipersselka to'g`ri ko'rsatilgan qatorni toping:",
+      "answers": [
+        {
+          "text": "<alink href=\"www.intuit.ru/index.html\">ssilka</a>",
+          "correct": true
+        },
+        {
+          "text": "<a pass=\"index.html\">ssыlka</a>",
+          "correct": false
+        },
+        {
+          "text": "<a href=\"www.intuit.ru/index.html\">ssilka</a>",
+          "correct": false
+        },
+        {
+          "text": "<alink href=\"www.intuit.ru/index.html\">ssilka</a>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "BODY tegining qaysi atributi \"faol\" gipersselkaning rangini o'zgartirish uchun ishlatiladi?",
+      "answers": [
+        {
+          "text": "ALINK",
+          "correct": true
+        },
+        {
+          "text": "COLOR",
+          "correct": false
+        },
+        {
+          "text": "VLINK",
+          "correct": false
+        },
+        {
+          "text": "LINK",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "HTML da qanday teglar malumotlar tiplarini ifodalaydi?",
+      "answers": [
+        {
+          "text": "<eM>, <SITe>, <KVD>, <SODE>",
+          "correct": true
+        },
+        {
+          "text": "<I>,  <B>, <TT>, <U>",
+          "correct": false
+        },
+        {
+          "text": "<SMALL>, <SUP>, <SAMR>, <Q>",
+          "correct": false
+        },
+        {
+          "text": "<I>,  <B>,<KVD>, <SODE>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Jadval xosil qilish uchun qaysi tegdan foydalaniladi?",
+      "answers": [
+        {
+          "text": "<TAVLe>",
+          "correct": true
+        },
+        {
+          "text": "<FORM>",
+          "correct": false
+        },
+        {
+          "text": "<INPUT>",
+          "correct": false
+        },
+        {
+          "text": "<HTML>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "HTML da shrift o'lchamini o'zgartirish uchun qaysi tegdan foydalaniladi?",
+      "answers": [
+        {
+          "text": "<SMALL>",
+          "correct": true
+        },
+        {
+          "text": "<SUP>",
+          "correct": false
+        },
+        {
+          "text": "<SUB>",
+          "correct": false
+        },
+        {
+          "text": "<SAMR>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript da qaysi obektlar yordamida massivlar vstroenniy klass obektlari sifatida xosil qilinadi?",
+      "answers": [
+        {
+          "text": "Array",
+          "correct": true
+        },
+        {
+          "text": "Date",
+          "correct": false
+        },
+        {
+          "text": "Number",
+          "correct": false
+        },
+        {
+          "text": "Boolean",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi obekt oyna xususiyatlarini, oyna o'lchamini, freymlar oynasida joylashishini, oyna nomini, oyna holat satrini ifodalaydi",
+      "answers": [
+        {
+          "text": "window",
+          "correct": true
+        },
+        {
+          "text": "document",
+          "correct": false
+        },
+        {
+          "text": "parent",
+          "correct": false
+        },
+        {
+          "text": "location",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript stsenariysida qaysi obekt usul va kattaliklaridan foydalangan holda brauzerga yuklangan xujjatning joriy vaqtdagi xolati haqida malumot olish mumkin?",
+      "answers": [
+        {
+          "text": "document",
+          "correct": true
+        },
+        {
+          "text": "window",
+          "correct": false
+        },
+        {
+          "text": "parent",
+          "correct": false
+        },
+        {
+          "text": "location",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript da qanday sonlar haqiqiy sonlar bo'la oladi?",
+      "answers": [
+        {
+          "text": "0.0, -2.9, 0.7E1, 14.7e-2, 1e+308",
+          "correct": true
+        },
+        {
+          "text": "0, 29, 70, -147",
+          "correct": false
+        },
+        {
+          "text": "0x70 yoki 0x70, 0XFA7D0",
+          "correct": false
+        },
+        {
+          "text": "0XFA7D0, 70, -147, 1e+308",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript ning qanday standart funktsiyasi s satr tarkibida bir yoki bir nechta operatorlarni amalga oshiradi, hisoblaydi?",
+      "answers": [
+        {
+          "text": "eval(s)",
+          "correct": true
+        },
+        {
+          "text": "parseInt(s)",
+          "correct": false
+        },
+        {
+          "text": "Barcha javoblar to'g`ri",
+          "correct": false
+        },
+        {
+          "text": "parseFloat(s)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qanday o'zgaruvchilar bo'shliqni ifodalaydi?",
+      "answers": [
+        {
+          "text": "var re = /\\S/",
+          "correct": true
+        },
+        {
+          "text": "var tl=/\b/",
+          "correct": false
+        },
+        {
+          "text": "var nm = /\n/",
+          "correct": false
+        },
+        {
+          "text": "var nm = /\\d/",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qanday o'zgaruvchilar sonlarni ifodalaydi?",
+      "answers": [
+        {
+          "text": "var nm = /\\d/",
+          "correct": true
+        },
+        {
+          "text": "var nm = /\n/",
+          "correct": false
+        },
+        {
+          "text": "var tl=/\b/",
+          "correct": false
+        },
+        {
+          "text": "var re = /\\S/",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "«\n» belgisi nimani ifodalaydi",
+      "answers": [
+        {
+          "text": "Yangi satrga o'tish",
+          "correct": true
+        },
+        {
+          "text": "\"uzulish\"",
+          "correct": false
+        },
+        {
+          "text": "qo'shtirnoq",
+          "correct": false
+        },
+        {
+          "text": "Ekranni tozalash",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi atribut berilgan matnli  ssыlkalar rangini ifodalaydi?",
+      "answers": [
+        {
+          "text": "VLINK",
+          "correct": true
+        },
+        {
+          "text": "LINK",
+          "correct": false
+        },
+        {
+          "text": "TeXT",
+          "correct": false
+        },
+        {
+          "text": "ALINK",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<P> tegi nima uchun qo'llaniladi?",
+      "answers": [
+        {
+          "text": "matnni paragraflarga ajratish uchun",
+          "correct": true
+        },
+        {
+          "text": "Sarlavhani ifodalash uchun",
+          "correct": false
+        },
+        {
+          "text": "Obektni ko'rsatilgan joyga o'rnatish va shu nuqtadan bo'sh satrga matnni davom ettirish uchun qo'llaniladi",
+          "correct": false
+        },
+        {
+          "text": "Tartibsiz ro'yxat xosil qilish uchun",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<BR SLeAR=all> matni nimani ifodalaydi",
+      "answers": [
+        {
+          "text": "o'ng va chap tomonlari bo'sh bo'lgan joydan matn boshlanadi",
+          "correct": true
+        },
+        {
+          "text": "Matn yaqin o'ng soxadagi bo'shliqning boshidan boshlanadi",
+          "correct": false
+        },
+        {
+          "text": "Matn yaqin chap soxadagi bo'shliqning boshidan boshlanadi",
+          "correct": false
+        },
+        {
+          "text": "To'g`ri javob yo'q",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi teg matn qo'shtirnoq bilan tugashi uchun qo'llaniladi?",
+      "answers": [
+        {
+          "text": "<Q>...</Q>",
+          "correct": true
+        },
+        {
+          "text": "<SODE>...</SODE>",
+          "correct": false
+        },
+        {
+          "text": "<VAR>...</VAR>",
+          "correct": false
+        },
+        {
+          "text": "<eM>...</eM>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<UL> tegi nimani ifodalaydi?",
+      "answers": [
+        {
+          "text": "Numerlanmagan ro'yxatni",
+          "correct": true
+        },
+        {
+          "text": "Alfabit bo'yicha nomerlanishni",
+          "correct": false
+        },
+        {
+          "text": "Jadval yacheykasini",
+          "correct": false
+        },
+        {
+          "text": "numerlangan ro'yxatni",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<UL TYPE=DISK> matni nimani ifodalaydi",
+      "answers": [
+        {
+          "text": "Teg birinchi ro'yxatda ifodalanganidek markerlar xosil qiladi",
+          "correct": true
+        },
+        {
+          "text": "Teg aylana shaklidagi markerni xosil qilishni ifodalaydi",
+          "correct": false
+        },
+        {
+          "text": "Teg kvadrat marker xosil qiladi",
+          "correct": false
+        },
+        {
+          "text": "Teg 1., 2., 3., 4. va h.k ko'rinishidagi ro'yxatni xosil qiladi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<OL TYRe=I>Matni nimani ifodalaydi",
+      "answers": [
+        {
+          "text": "Teg  I., II., III., IV. va h.k ko'rinishidagi ro'yxatni xosil qiladi",
+          "correct": true
+        },
+        {
+          "text": "Teg birinchi ro'yxatda ifodalanganidek markerlar xosil qiladi",
+          "correct": false
+        },
+        {
+          "text": "Teg kvadrat marker xosil qiladi",
+          "correct": false
+        },
+        {
+          "text": "Teg 1., 2., 3., 4. va h.k ko'rinishidagi ro'yxatni xosil qiladi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<IMG> tegining qatiy atributlarini toping",
+      "answers": [
+        {
+          "text": "SRC",
+          "correct": true
+        },
+        {
+          "text": "ALT",
+          "correct": false
+        },
+        {
+          "text": "NREF",
+          "correct": false
+        },
+        {
+          "text": "TYRe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi teg forma ichida qaerga malumot kiritilishini ifodalaydi?",
+      "answers": [
+        {
+          "text": "<INPUT>",
+          "correct": true
+        },
+        {
+          "text": "<CENTER>",
+          "correct": false
+        },
+        {
+          "text": "<FORM>",
+          "correct": false
+        },
+        {
+          "text": "<HTML>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "FORM tegining METHOD atributining nechta qiymati bor?",
+      "answers": [
+        {
+          "text": "ikkita: GET yoki POST",
+          "correct": true
+        },
+        {
+          "text": "Bitta: POST",
+          "correct": false
+        },
+        {
+          "text": "Uchta: GET, POST, NULL",
+          "correct": false
+        },
+        {
+          "text": "Bitta: GET",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi teg formada malumot kiritishda foydalanuvchi bir neyata variantlardan birini tanlashdan foydalanishni ifodalaydi?",
+      "answers": [
+        {
+          "text": "<INPUT> TYPE=radio atributi bilan",
+          "correct": true
+        },
+        {
+          "text": "<INPUT> TYPE= text atributi bilan",
+          "correct": false
+        },
+        {
+          "text": "<INPUT> TYPE= checkbox  atributi bilan",
+          "correct": false
+        },
+        {
+          "text": "<INPUT> TYPE= image atributi bilan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Formada parol kiritish kerak bo'lsa qaysi kattalikdan foydalanishga to'g`ri keladi",
+      "answers": [
+        {
+          "text": "password",
+          "correct": true
+        },
+        {
+          "text": "radio",
+          "correct": false
+        },
+        {
+          "text": "image",
+          "correct": false
+        },
+        {
+          "text": "reset",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<TEXTAREA> tegida qanday atributlar foydalaniladi ?",
+      "answers": [
+        {
+          "text": "COLS, NAME va ROWS",
+          "correct": true
+        },
+        {
+          "text": "ALT, NREF va TYRe",
+          "correct": false
+        },
+        {
+          "text": "ALT, NREF va NAME",
+          "correct": false
+        },
+        {
+          "text": "To'g`ri javob yo'q",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Null nimani ifodalaydi?",
+      "answers": [
+        {
+          "text": "bo'sh to'plamni ifodalash uchun maxsus belgi",
+          "correct": true
+        },
+        {
+          "text": "0",
+          "correct": false
+        },
+        {
+          "text": "Haqiqiy son",
+          "correct": false
+        },
+        {
+          "text": "Nuldan farqli, moduli bo'yicha nuldan farqli haqiqiy son",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript da \"=\", \"+=\", \"-=\", \"=\", \"/=\", \"%=\" operatorlar qanday nomlanadi?",
+      "answers": [
+        {
+          "text": "O'zlashtirish operatorlari",
+          "correct": true
+        },
+        {
+          "text": "dekrement operatorlar",
+          "correct": false
+        },
+        {
+          "text": "Arifmetik amallar operatorlari",
+          "correct": false
+        },
+        {
+          "text": "inkrement operatorlar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi operatsiyalar qanday nomlanadi: \"!\", \"~\", \"++\", \"--\";",
+      "answers": [
+        {
+          "text": "inkor, inkrement, dekrement",
+          "correct": true
+        },
+        {
+          "text": "Tenglikni solishtirish,Shart amallari",
+          "correct": false
+        },
+        {
+          "text": "Bit bo'yicha surish,tenglashtirish",
+          "correct": false
+        },
+        {
+          "text": "qo'shish, ayirish",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "JavaScript da qanday shart operatorlari mavjud?",
+      "answers": [
+        {
+          "text": "if",
+          "correct": true
+        },
+        {
+          "text": "If , while",
+          "correct": false
+        },
+        {
+          "text": "For, while",
+          "correct": false
+        },
+        {
+          "text": "For, while, if",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi operator for yoki while tsikl operatorlari bajarilishini to'xtatadi",
+      "answers": [
+        {
+          "text": "break",
+          "correct": true
+        },
+        {
+          "text": "continue",
+          "correct": false
+        },
+        {
+          "text": "end",
+          "correct": false
+        },
+        {
+          "text": "return",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "isFinite ning vazifasi nima?",
+      "answers": [
+        {
+          "text": "butun son argumentini ifodalaydi",
+          "correct": true
+        },
+        {
+          "text": "Sonli argument bor yoki yukligini ifodalaydi",
+          "correct": false
+        },
+        {
+          "text": "Satrni butun songa aylantiradi",
+          "correct": false
+        },
+        {
+          "text": "Satrni barcha platforda ukiladigan kurinishga aylantiradi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi funktsiya sonni yaqinlashishi bo'yicha yaxlitlaydi",
+      "answers": [
+        {
+          "text": "ceil(x)",
+          "correct": true
+        },
+        {
+          "text": "abs(x)",
+          "correct": false
+        },
+        {
+          "text": "Floor(x)",
+          "correct": false
+        },
+        {
+          "text": "atan(x)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "d=new Date()d nimaga teng?",
+      "answers": [
+        {
+          "text": "bugungi sana va vaktga teng",
+          "correct": true
+        },
+        {
+          "text": "Bugungi vaktga teng",
+          "correct": false
+        },
+        {
+          "text": "Bugungi sanaga teng",
+          "correct": false
+        },
+        {
+          "text": "Sana  va vaktga teng",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi funktsiya satr kurinishida berilgan sanani sintaksik taxlil kilib, uni millisekund kurinishiga keltiradi",
+      "answers": [
+        {
+          "text": "parse()",
+          "correct": true
+        },
+        {
+          "text": "toLocalString()",
+          "correct": false
+        },
+        {
+          "text": "getDate()",
+          "correct": false
+        },
+        {
+          "text": "getSeconds()",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi usul joriy oynani kursatadi yoki yangisini ochadi?",
+      "answers": [
+        {
+          "text": "open",
+          "correct": true
+        },
+        {
+          "text": "top",
+          "correct": false
+        },
+        {
+          "text": "write",
+          "correct": false
+        },
+        {
+          "text": "close",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "domain nima?",
+      "answers": [
+        {
+          "text": "xujjatni  kaysi domendan kelganligini ifodalovchi kator",
+          "correct": true
+        },
+        {
+          "text": "Fon rangi bilan berilgan kator",
+          "correct": false
+        },
+        {
+          "text": "Xujjat matni rangini beruvchi kator",
+          "correct": false
+        },
+        {
+          "text": "xujjat URL adresi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kaysi obekt ichiga yozilgan bir yoki bir nechta URL fragmentlari kismini ukish va yozishni ifodalaydi?",
+      "answers": [
+        {
+          "text": "Location",
+          "correct": true
+        },
+        {
+          "text": "Window",
+          "correct": false
+        },
+        {
+          "text": "document",
+          "correct": false
+        },
+        {
+          "text": "History",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Web-sayt nima?",
+      "answers": [
+        {
+          "text": "anik maksad asosida mantikiy bogdangan web-saxifalar birlashmasi",
+          "correct": true
+        },
+        {
+          "text": "klient-server texnologiyasiga asoslangan, keng tarkalgan Internet ning axborot xizmatidir",
+          "correct": false
+        },
+        {
+          "text": "A va V",
+          "correct": false
+        },
+        {
+          "text": "Yagona adresga ega bulgan xujjat xisoblanib, uni ochish (brauzer yordamida)  va ukish imkoniyati mavjud",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Serverda kayta ishlanuvchi stsenariy tili bu …",
+      "answers": [
+        {
+          "text": "PHP",
+          "correct": true
+        },
+        {
+          "text": "Perl",
+          "correct": false
+        },
+        {
+          "text": "VBScript",
+          "correct": false
+        },
+        {
+          "text": "ASP",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "% binar operatori nimani ifodalaydi?",
+      "answers": [
+        {
+          "text": "bulinmani koldigini ifodalaydi",
+          "correct": true
+        },
+        {
+          "text": "Uzgaruvchi kiymatini kichraytiradi. Prefiks sifatida kullanilishi mumkin",
+          "correct": false
+        },
+        {
+          "text": "INKOR ETUVChI YoKIYo",
+          "correct": false
+        },
+        {
+          "text": "Uzgaruvchi yoki uning su suffiksi:Chap tomonga surushni ifodalaydi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "«||», «&&» operatorlari kanday nomlanadi?",
+      "answers": [
+        {
+          "text": "mantikiy operatorlar",
+          "correct": true
+        },
+        {
+          "text": "Munosabat operatorlari",
+          "correct": false
+        },
+        {
+          "text": "Uzlashtirish operatorlari",
+          "correct": false
+        },
+        {
+          "text": "Aloxida bitlar bilan ishlovchi operatorlar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Foydalanuvchi oyna bilan ishlashni tugatib, brauzer oynasini yopishi ,yoki boshki xujjatni kushishi kaysi xolatni beradi",
+      "answers": [
+        {
+          "text": "onUnload",
+          "correct": true
+        },
+        {
+          "text": "onLoad",
+          "correct": false
+        },
+        {
+          "text": "printRecord",
+          "correct": false
+        },
+        {
+          "text": "toLowerCase",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "var MyStr;MyStr = \"Hello World!\";k = MyStr.length;document.write(\"Satr uzunligi\" + k);natija qanday bo'ladi?",
+      "answers": [
+        {
+          "text": "Satr uzunligi 11",
+          "correct": true
+        },
+        {
+          "text": "\" Satr uzunligi \" + k",
+          "correct": false
+        },
+        {
+          "text": "\"Hello World!\"",
+          "correct": false
+        },
+        {
+          "text": "\"Hello World!\" - 11",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "FORM tegining qaysi parametri CGI dasturni va to'la berilgan parametrlarini yuklanuvchi URL adresini ko'rsatadi?",
+      "answers": [
+        {
+          "text": "ACTION",
+          "correct": true
+        },
+        {
+          "text": "TARGET",
+          "correct": false
+        },
+        {
+          "text": "NAME",
+          "correct": false
+        },
+        {
+          "text": "METHOD",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi operator yordamida formada berilgan bir nechta ro'yxat ichidan birini tanlash amalga oshiriladi?",
+      "answers": [
+        {
+          "text": "<SELECT>",
+          "correct": true
+        },
+        {
+          "text": "<TITLE>",
+          "correct": false
+        },
+        {
+          "text": "<INPUT>",
+          "correct": false
+        },
+        {
+          "text": "<OPTION>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi RNR tilidagi  dasturlardan to'g`risini ko'rsating.",
+      "answers": [
+        {
+          "text": "<html><title><? print \"Hello world!\";?> </title></html>",
+          "correct": true
+        },
+        {
+          "text": "<html><title>< Hello world></title></html>",
+          "correct": false
+        },
+        {
+          "text": "<html><title>< print \"Hello world!\"; ></title></html>",
+          "correct": false
+        },
+        {
+          "text": "<html><title>print \"Hello world!\"</title></html>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi ASP usulidagi RNR dasturlardan to'g`risini ko'rsating",
+      "answers": [
+        {
+          "text": "<%php print \"Welcome to the world of PHP!\"; %>",
+          "correct": true
+        },
+        {
+          "text": "<? print \"Hello world!\";?>",
+          "correct": false
+        },
+        {
+          "text": "<script language=\"php\"><?php print \"Welcome to the world of PHP!\"; ?></script>",
+          "correct": false
+        },
+        {
+          "text": "To'g`ri javob yo'q",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "RNR da qaysi parametr xatolik xabari darajasini aniqlaydi?",
+      "answers": [
+        {
+          "text": "error_reporting [1-8]",
+          "correct": true
+        },
+        {
+          "text": "display_errors [on | off]",
+          "correct": false
+        },
+        {
+          "text": "log_errors",
+          "correct": false
+        },
+        {
+          "text": "error_log [filename]",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bir xil tipli elementlar birlashmasi nima bo'lishi mumkin?",
+      "answers": [
+        {
+          "text": "Massiv",
+          "correct": true
+        },
+        {
+          "text": "Xaqiqiy sonlar",
+          "correct": false
+        },
+        {
+          "text": "Satrli belgilar",
+          "correct": false
+        },
+        {
+          "text": "funktsiya",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Yagona adresga ega va (brauzera yordamida) ochish, o'qish imkoniyatiga ega bo'lgan xujjat…",
+      "answers": [
+        {
+          "text": "Web-sahifa",
+          "correct": true
+        },
+        {
+          "text": "Elektron magazin",
+          "correct": false
+        },
+        {
+          "text": "Web-server",
+          "correct": false
+        },
+        {
+          "text": "Web-sayt",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi teg xujjatlar aro aloqa o'rnatilganligi haqida metamalumot beradi",
+      "answers": [
+        {
+          "text": "LINK element,",
+          "correct": true
+        },
+        {
+          "text": "ISINDEX element",
+          "correct": false
+        },
+        {
+          "text": "META element",
+          "correct": false
+        },
+        {
+          "text": "BASE element",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "MENU qanday teg?",
+      "answers": [
+        {
+          "text": "satr ko'rinishda, ixcham xolda berilgan ro'yxat",
+          "correct": true
+        },
+        {
+          "text": "Tartibsiz ro'yxatni ifodalaydi",
+          "correct": false
+        },
+        {
+          "text": "ixcham xolda berilgan ro'yxat",
+          "correct": false
+        },
+        {
+          "text": "definitiv ro'yxat",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<form><input type=button value=\"Yahoo\"onClick=\"location.href='http://www.yahoo.com'; \"></form>Natijani ko'rsating?",
+      "answers": [
+        {
+          "text": "\"Yahoo\" tugmasi bosilganda  'http://www.yahoo.com'  ssilkasi yuklanadi",
+          "correct": true
+        },
+        {
+          "text": "\"Yahoo\" tugmasi bosilganda  'http://www.yahoo.com'  ssilka paydo bo'ladi",
+          "correct": false
+        },
+        {
+          "text": "\"Yahoo\" tugmasi ikki marta  bosilganda  'http://www.yahoo.com'  yuklanadi",
+          "correct": false
+        },
+        {
+          "text": "'http://www.yahoo.com' yopilgach \"Yahoo\" tugmasiga ega sahifa ochiladi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<frameset cols=\"50%,50%\"><frameset rows=\"50%,50%\"><frame src=\"cell.htm\"><frame src=\"cell.htm\"></frameset><frameset rows=\"33%,33%,33%\"><frame src=\"cell.htm\"><frame src=\"cell.htm\"><frame src=\"cell.htm\"></frameset></frameset>Nechta freym mavjud,",
+      "answers": [
+        {
+          "text": "5",
+          "correct": true
+        },
+        {
+          "text": "6",
+          "correct": false
+        },
+        {
+          "text": "7",
+          "correct": false
+        },
+        {
+          "text": "4",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "INPUT tegi TYPE atribut qabul qilmaydigan qiymatni toping",
+      "answers": [
+        {
+          "text": "TOP",
+          "correct": true
+        },
+        {
+          "text": "CHECKBOX",
+          "correct": false
+        },
+        {
+          "text": "RADIO",
+          "correct": false
+        },
+        {
+          "text": "PASSWORD",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Jadvalni romkasiz yaratish uchun TABLE tegining  BORDER atributiga qanday qiymat berish kerak?",
+      "answers": [
+        {
+          "text": "0",
+          "correct": true
+        },
+        {
+          "text": "2",
+          "correct": false
+        },
+        {
+          "text": "1",
+          "correct": false
+        },
+        {
+          "text": "3",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "HTML da kommentariy sintaksisi qanday?",
+      "answers": [
+        {
+          "text": "<!-- Bu kommentariy -->",
+          "correct": true
+        },
+        {
+          "text": "<! Bu kommentariy",
+          "correct": false
+        },
+        {
+          "text": "< Bu kommentariy >",
+          "correct": false
+        },
+        {
+          "text": "// Bu kommentariy //",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Avtomatik ravishda keyingi satrga o'tish qaysi teg orqali amalga oshiriladi",
+      "answers": [
+        {
+          "text": "NOBR",
+          "correct": true
+        },
+        {
+          "text": "BLOCKQUOTE",
+          "correct": false
+        },
+        {
+          "text": "PRE",
+          "correct": false
+        },
+        {
+          "text": "BR",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Rasm romkasi kengligini kaysi parametr orkali beramiz?",
+      "answers": [
+        {
+          "text": "BORDER",
+          "correct": true
+        },
+        {
+          "text": "ALIGN",
+          "correct": false
+        },
+        {
+          "text": "HSPACE",
+          "correct": false
+        },
+        {
+          "text": "ALT",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Xujjatda «>» belgidan foydalanish uchun kaysi escape-ketma ketligidanfoydalaniladi?",
+      "answers": [
+        {
+          "text": "&gt",
+          "correct": true
+        },
+        {
+          "text": "&amp;",
+          "correct": false
+        },
+        {
+          "text": "&quot",
+          "correct": false
+        },
+        {
+          "text": "&lt;",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Xujjatda «<» belgidan foydalanish uchun kaysi escape-ketma ketligidanfoydalaniladi?",
+      "answers": [
+        {
+          "text": "&lt;",
+          "correct": true
+        },
+        {
+          "text": "&amp;",
+          "correct": false
+        },
+        {
+          "text": "&quot",
+          "correct": false
+        },
+        {
+          "text": "&gt",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Date obekti nima kiladi?",
+      "answers": [
+        {
+          "text": "Komp'yuter soati ustida amallar bajaradi",
+          "correct": true
+        },
+        {
+          "text": "Komp'yuter kalendari ustida amallar bajaradi",
+          "correct": false
+        },
+        {
+          "text": "Komp'yuter soati  ustida arifmetik amallar bajaradi",
+          "correct": false
+        },
+        {
+          "text": "Bunday ob'ekt yuk",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<OL> \n<LI> Programmirovanie \n<LI> Algoritmizatsiya \n<LI> Proektirovanie \n</OL>Natija?",
+      "answers": [
+        {
+          "text": "ProgrammirovanieAlgoritmizatsiyaProektirovanie",
+          "correct": true
+        },
+        {
+          "text": "ProgrammirovanieAlgoritmizatsiyaProektirovanie",
+          "correct": false
+        },
+        {
+          "text": "ProgrammirovanieAlgoritmizatsiyaProektirovanie",
+          "correct": false
+        },
+        {
+          "text": "ProgrammirovanieAlgoritmizatsiyaProektirovanie",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "RNR da ko'p satrli kommentari (izoh) qanday beriladi?",
+      "answers": [
+        {
+          "text": "/ va /",
+          "correct": true
+        },
+        {
+          "text": "//",
+          "correct": false
+        },
+        {
+          "text": "",
+          "correct": true
+        },
+        {
+          "text": "<? va ?>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tashqi jadval stilini xujjat bilan to'g`ri bog`lanish usulini toping.",
+      "answers": [
+        {
+          "text": "<LINK REL=stylesheet href=\"../css/style.css\" >",
+          "correct": true
+        },
+        {
+          "text": "<LINK HREF=stylesheet href=\"../css/style.css\" TYPE=\"text/css\">",
+          "correct": false
+        },
+        {
+          "text": "<LINK REL=stylesheet rel=\"../css/style.css\" TYPE=\"text/css\">",
+          "correct": false
+        },
+        {
+          "text": "<LINK REL=stylesheet href=\"../css/style.css\" >",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

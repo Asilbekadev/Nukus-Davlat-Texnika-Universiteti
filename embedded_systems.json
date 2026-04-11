@@ -1,0 +1,2102 @@
+[
+  {
+    "question": "O'rnatilgan tizim qanday tizim?",
+    "answers": [
+      {
+        "text": "Ko'p maqsadli universal kompyuter",
+        "correct": false
+      },
+      {
+        "text": "Ma'lum bir vazifani bajarish uchun mo'ljallangan tizim",
+        "correct": true
+      },
+      {
+        "text": "Faqat internet uchun",
+        "correct": false
+      },
+      {
+        "text": "Faqat grafik ishlash uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilarning qaysi biri o'rnatilgan tizimning belgisi emas?",
+    "answers": [
+      {
+        "text": "Past energiya sarflash",
+        "correct": false
+      },
+      {
+        "text": "Maxsus vazifaga yo'naltirilgan",
+        "correct": false
+      },
+      {
+        "text": "Ko'p foydalanuvchili operatsion tizim",
+        "correct": true
+      },
+      {
+        "text": "Kichik o'lcham",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Real vaqt tizimida eng asosiy omil qaysi?",
+    "answers": [
+      {
+        "text": "Dizayn",
+        "correct": false
+      },
+      {
+        "text": "Summa",
+        "correct": false
+      },
+      {
+        "text": "Vaqtida javob berish",
+        "correct": true
+      },
+      {
+        "text": "Tush",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qattiq real vaqt sistemasida kechikish nimaga olib keladi?",
+    "answers": [
+      {
+        "text": "Sistema tezlashadi",
+        "correct": false
+      },
+      {
+        "text": "Tizim ishdan chiqadi",
+        "correct": true
+      },
+      {
+        "text": "Hech narsa o'zgarmaydi",
+        "correct": false
+      },
+      {
+        "text": "Grafik yaxshilanadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Yumshoq real vaqt tizimiga misol qaysi?",
+    "answers": [
+      {
+        "text": "Tibbiy apparat",
+        "correct": false
+      },
+      {
+        "text": "Avtomobil tormozi",
+        "correct": false
+      },
+      {
+        "text": "Video oqim tizimi",
+        "correct": true
+      },
+      {
+        "text": "Aviatsiya boshqaruvi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Deterministik sistema qanday sistema?",
+    "answers": [
+      {
+        "text": "Tasodifiy",
+        "correct": false
+      },
+      {
+        "text": "Natija oldindan ma'lum bo'lgan",
+        "correct": true
+      },
+      {
+        "text": "Internetga bog'liq",
+        "correct": false
+      },
+      {
+        "text": "Grafik sistema",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sensor qanday vazifani bajaradi?",
+    "answers": [
+      {
+        "text": "Signal yaratadi",
+        "correct": false
+      },
+      {
+        "text": "O'rta muhitdan ma'lumot oladi",
+        "correct": true
+      },
+      {
+        "text": "Tok beradi",
+        "correct": false
+      },
+      {
+        "text": "Ma'lumot saqlaydi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aktuator qanday vazifani bajaradi?",
+    "answers": [
+      {
+        "text": "Kirish signalini qabul qiladi",
+        "correct": false
+      },
+      {
+        "text": "Fizik amal bajariladi",
+        "correct": true
+      },
+      {
+        "text": "Ma'lumot saqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Internetga chiqadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Analog signalning o'ziga xosligi?",
+    "answers": [
+      {
+        "text": "Diskret",
+        "correct": false
+      },
+      {
+        "text": "Uzluksiz o'zgaruvchi",
+        "correct": true
+      },
+      {
+        "text": "Faqat 0 va 1",
+        "correct": false
+      },
+      {
+        "text": "Sonli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "ADC ishlash prinsipi qanday?",
+    "answers": [
+      {
+        "text": "Raqamli signalni analog signalga aylantiradi",
+        "correct": false
+      },
+      {
+        "text": "Analog signalni raqamli kodga aylantiradi",
+        "correct": true
+      },
+      {
+        "text": "Signalni ko'paytiradi",
+        "correct": false
+      },
+      {
+        "text": "Signalni yo'qotadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilarning qaysi biri DAC ga tegishli?",
+    "answers": [
+      {
+        "text": "Analog → raqam",
+        "correct": false
+      },
+      {
+        "text": "Raqam → analog",
+        "correct": true
+      },
+      {
+        "text": "Signalni o'chirish",
+        "correct": false
+      },
+      {
+        "text": "Tok berish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "UART interfeysining afzalligi nimada?",
+    "answers": [
+      {
+        "text": "Ko'p sim talab qiladi",
+        "correct": false
+      },
+      {
+        "text": "Oddiy va kam sim bilan ishlaydi",
+        "correct": true
+      },
+      {
+        "text": "Faqat analog",
+        "correct": false
+      },
+      {
+        "text": "Tez emas",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "SPI bilan I2C orasidagi asosiy farq?",
+    "answers": [
+      {
+        "text": "SPI 2 simli",
+        "correct": false
+      },
+      {
+        "text": "I2C tezroq",
+        "correct": false
+      },
+      {
+        "text": "SPI ko'proq sim talab qiladi",
+        "correct": true
+      },
+      {
+        "text": "I2C analogi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Signal konditingi nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Signalni o'chirish",
+        "correct": false
+      },
+      {
+        "text": "Signalni sensor bilan moslash",
+        "correct": true
+      },
+      {
+        "text": "Internetga chiqarish",
+        "correct": false
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mikrokontroller qaysi qismlardan iborat?",
+    "answers": [
+      {
+        "text": "Faqat CPU",
+        "correct": false
+      },
+      {
+        "text": "CPU + RAM + ROM + periferiyalar",
+        "correct": true
+      },
+      {
+        "text": "Faqat yod",
+        "correct": false
+      },
+      {
+        "text": "Faqat port",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mikroprotsessor bilan mikrokontrollerlarning farqi?",
+    "answers": [
+      {
+        "text": "Mikroprotsessor ichida xotira yo'q",
+        "correct": true
+      },
+      {
+        "text": "Mikrokontrollerlerde CPU joq",
+        "correct": false
+      },
+      {
+        "text": "Farqi yo'q",
+        "correct": false
+      },
+      {
+        "text": "Ikkalasi bir xil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "RAM qanday xususiyatga ega?",
+    "answers": [
+      {
+        "text": "Elektrsiz saqlanadi",
+        "correct": false
+      },
+      {
+        "text": "Vaqtincha saqlaydi, tok ketsa o'chadi",
+        "correct": true
+      },
+      {
+        "text": "O'zgarmaydi",
+        "correct": false
+      },
+      {
+        "text": "Faqat o'qiladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Flash xotira nima uchun ishlatiladi?",
+    "answers": [
+      {
+        "text": "Vaqtinchalik ma'lumot",
+        "correct": false
+      },
+      {
+        "text": "Dasturni saqlash",
+        "correct": true
+      },
+      {
+        "text": "Signal berish",
+        "correct": false
+      },
+      {
+        "text": "Internet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "GPIO qanday vazifani bajaradi?",
+    "answers": [
+      {
+        "text": "Grafik",
+        "correct": false
+      },
+      {
+        "text": "Kirim-chiqim boshqaruvi",
+        "correct": true
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      },
+      {
+        "text": "Internet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino platformasining afzalligi?",
+    "answers": [
+      {
+        "text": "Qiyin dasturlanadi",
+        "correct": false
+      },
+      {
+        "text": "Oson va arzon",
+        "correct": true
+      },
+      {
+        "text": "Faqat professional uchun",
+        "correct": false
+      },
+      {
+        "text": "Faqat o'yin uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino da PWM pin nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Analog o'qish",
+        "correct": false
+      },
+      {
+        "text": "Signalni modulyatsiya qilish",
+        "correct": true
+      },
+      {
+        "text": "Tok berish",
+        "correct": false
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "setup() funksiyasida nima qilinadi?",
+    "answers": [
+      {
+        "text": "Uzluksiz takrorlanadi",
+        "correct": false
+      },
+      {
+        "text": "Bir marta boshlang'ich sozlashlar uchun ishlaydi",
+        "correct": true
+      },
+      {
+        "text": "Signal o'chadi",
+        "correct": false
+      },
+      {
+        "text": "Tok beradi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "loop() funksiyasida nima ishlaydi?",
+    "answers": [
+      {
+        "text": "Bir marta",
+        "correct": false
+      },
+      {
+        "text": "Uzluksiz takrorlanadi",
+        "correct": true
+      },
+      {
+        "text": "Saqlaydi",
+        "correct": false
+      },
+      {
+        "text": "O'chiradi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "LED nima uchun rezistor bilan ulanadi?",
+    "answers": [
+      {
+        "text": "Tokni ko'paytirish",
+        "correct": false
+      },
+      {
+        "text": "Tokni cheklash va LEDni himoyalash",
+        "correct": true
+      },
+      {
+        "text": "Signal berish",
+        "correct": false
+      },
+      {
+        "text": "Yorug'likni kamaytirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Real vaqt tizimlarida latency nima?",
+    "answers": [
+      {
+        "text": "Signal kuchi",
+        "correct": false
+      },
+      {
+        "text": "Signal kechikishi (javob vaqti)",
+        "correct": true
+      },
+      {
+        "text": "Signal tusi",
+        "correct": false
+      },
+      {
+        "text": "Tok miqdori",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizim nima?",
+    "answers": [
+      {
+        "text": "Universal kompyuter",
+        "correct": false
+      },
+      {
+        "text": "Maxsus vazifani bajaruvchi tizim",
+        "correct": true
+      },
+      {
+        "text": "Faqat dastur",
+        "correct": false
+      },
+      {
+        "text": "Internet tizimi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlarning asosiy vazifasi:",
+    "answers": [
+      {
+        "text": "O'yin ishlatish",
+        "correct": false
+      },
+      {
+        "text": "Muayyan jarayonni boshqarish",
+        "correct": true
+      },
+      {
+        "text": "Internetga ulanish",
+        "correct": false
+      },
+      {
+        "text": "Fayl saqlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Faning asosiy maqsadi:",
+    "answers": [
+      {
+        "text": "O'yin yaratish",
+        "correct": false
+      },
+      {
+        "text": "O'rnatilgan tizimlarni o'rganish va loyihalash",
+        "correct": true
+      },
+      {
+        "text": "Internetni o'rganish",
+        "correct": false
+      },
+      {
+        "text": "Grafik dizayn",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlar qayerda qo'llaniladi?",
+    "answers": [
+      {
+        "text": "Faqat telefonlarda",
+        "correct": false
+      },
+      {
+        "text": "Faqat kompyuterlarda",
+        "correct": false
+      },
+      {
+        "text": "Sanoat, transport, aloqa sohalarida",
+        "correct": true
+      },
+      {
+        "text": "Faqat uyda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aloqa sohasida o'rnatilgan tizimlar:",
+    "answers": [
+      {
+        "text": "Keraksiz",
+        "correct": false
+      },
+      {
+        "text": "Signal uzatishda ishlatiladi",
+        "correct": true
+      },
+      {
+        "text": "Faqat saqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Faqat yozadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlarning istiqboli:",
+    "answers": [
+      {
+        "text": "Yo'qolib ketadi",
+        "correct": false
+      },
+      {
+        "text": "Rivojlanmaydi",
+        "correct": false
+      },
+      {
+        "text": "Juda tez rivojlanmoqda",
+        "correct": true
+      },
+      {
+        "text": "Faqat eski texnologiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlarga asosiy talab:",
+    "answers": [
+      {
+        "text": "Katta hajm",
+        "correct": false
+      },
+      {
+        "text": "Ishonchlilik",
+        "correct": true
+      },
+      {
+        "text": "Rangli ekran",
+        "correct": false
+      },
+      {
+        "text": "Og'irlik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Real vaqt tizimida asosiy talab:",
+    "answers": [
+      {
+        "text": "Sekin ishlash",
+        "correct": false
+      },
+      {
+        "text": "Vaqtida javob berish",
+        "correct": true
+      },
+      {
+        "text": "Katta xotira",
+        "correct": false
+      },
+      {
+        "text": "Internet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlar klassifikatsiyasi:",
+    "answers": [
+      {
+        "text": "Rangiga qarab",
+        "correct": false
+      },
+      {
+        "text": "Vazifasiga qarab",
+        "correct": true
+      },
+      {
+        "text": "Narxiga qarab",
+        "correct": false
+      },
+      {
+        "text": "Og'irligiga qarab",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qattiq real vaqt tizimi:",
+    "answers": [
+      {
+        "text": "Kechikishga ruxsat beradi",
+        "correct": false
+      },
+      {
+        "text": "Kechikish mumkin emas",
+        "correct": true
+      },
+      {
+        "text": "Sekin ishlaydi",
+        "correct": false
+      },
+      {
+        "text": "Faqat o'yin uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Yumshoq real vaqt tizimi:",
+    "answers": [
+      {
+        "text": "Kechikish mumkin emas",
+        "correct": false
+      },
+      {
+        "text": "Biroz kechikish mumkin",
+        "correct": true
+      },
+      {
+        "text": "Ishlamaydi",
+        "correct": false
+      },
+      {
+        "text": "Faqat grafik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizimlarning asosiy xususiyati:",
+    "answers": [
+      {
+        "text": "Universal bo'lishi",
+        "correct": false
+      },
+      {
+        "text": "Maxsus vazifa bajarishi",
+        "correct": true
+      },
+      {
+        "text": "Katta bo'lishi",
+        "correct": false
+      },
+      {
+        "text": "Rangli bo'lishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Boshqarish ob'ekti nima?",
+    "answers": [
+      {
+        "text": "Protsessor",
+        "correct": false
+      },
+      {
+        "text": "Boshqariladigan qurilma",
+        "correct": true
+      },
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "Kabel",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Datchik vazifasi:",
+    "answers": [
+      {
+        "text": "Signal uzatish",
+        "correct": false
+      },
+      {
+        "text": "Fizik kattalikni o'lchash",
+        "correct": true
+      },
+      {
+        "text": "Xotira saqlash",
+        "correct": false
+      },
+      {
+        "text": "Hisoblash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Interfeys nima?",
+    "answers": [
+      {
+        "text": "Qurilmalar orasidagi aloqa vositasi",
+        "correct": true
+      },
+      {
+        "text": "Faqat ekran",
+        "correct": false
+      },
+      {
+        "text": "Faqat dastur",
+        "correct": false
+      },
+      {
+        "text": "Xotira",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Analog signal:",
+    "answers": [
+      {
+        "text": "Uzluksiz signal",
+        "correct": true
+      },
+      {
+        "text": "Diskret signal",
+        "correct": false
+      },
+      {
+        "text": "Raqamli signal",
+        "correct": false
+      },
+      {
+        "text": "Nol signal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Raqamli signal:",
+    "answers": [
+      {
+        "text": "Uzluksiz",
+        "correct": false
+      },
+      {
+        "text": "Diskret qiymatli",
+        "correct": true
+      },
+      {
+        "text": "Analog",
+        "correct": false
+      },
+      {
+        "text": "Cheksiz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "ADC vazifasi:",
+    "answers": [
+      {
+        "text": "Raqamli signalni analogga aylantirish",
+        "correct": false
+      },
+      {
+        "text": "Analog signalni raqamli qilish",
+        "correct": true
+      },
+      {
+        "text": "Signalni kuchaytirish",
+        "correct": false
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "DAC vazifasi:",
+    "answers": [
+      {
+        "text": "Analogni raqamga",
+        "correct": false
+      },
+      {
+        "text": "Raqamli signalni analogga",
+        "correct": true
+      },
+      {
+        "text": "Kuchaytirish",
+        "correct": false
+      },
+      {
+        "text": "Yo'qotish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mikrokontroller nima?",
+    "answers": [
+      {
+        "text": "Faqat CPU",
+        "correct": false
+      },
+      {
+        "text": "Barcha komponentlar jamlanmasi",
+        "correct": true
+      },
+      {
+        "text": "Faqat RAM",
+        "correct": false
+      },
+      {
+        "text": "Faqat ROM",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mikrokontroller tarkibi:",
+    "answers": [
+      {
+        "text": "CPU, RAM, I/O",
+        "correct": true
+      },
+      {
+        "text": "Faqat CPU",
+        "correct": false
+      },
+      {
+        "text": "Faqat disk",
+        "correct": false
+      },
+      {
+        "text": "Faqat monitor",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I/O port nima?",
+    "answers": [
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "Kirish-chiqish interfeysi",
+        "correct": true
+      },
+      {
+        "text": "Protsessor",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Protsessor vazifasi:",
+    "answers": [
+      {
+        "text": "Ma'lumotni qayta ishlash",
+        "correct": true
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      },
+      {
+        "text": "Uzatish",
+        "correct": false
+      },
+      {
+        "text": "Chizish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tashqi qurilmalar:",
+    "answers": [
+      {
+        "text": "Faqat RAM",
+        "correct": false
+      },
+      {
+        "text": "Sensor va aktuatorlar",
+        "correct": true
+      },
+      {
+        "text": "CPU",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Parallel ishlov berish:",
+    "answers": [
+      {
+        "text": "Bitta vazifa",
+        "correct": false
+      },
+      {
+        "text": "Bir vaqtning o'zida bir nechta vazifa",
+        "correct": true
+      },
+      {
+        "text": "Sekin ishlash",
+        "correct": false
+      },
+      {
+        "text": "Faqat xotira",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ko'p yadroli protsessor:",
+    "answers": [
+      {
+        "text": "Bitta yadro",
+        "correct": false
+      },
+      {
+        "text": "Bir nechta yadro",
+        "correct": true
+      },
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Axborotga ishlov berish:",
+    "answers": [
+      {
+        "text": "O'chirish",
+        "correct": false
+      },
+      {
+        "text": "Qayta ishlash",
+        "correct": true
+      },
+      {
+        "text": "Yo'qotish",
+        "correct": false
+      },
+      {
+        "text": "Rang berish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uzilish nima?",
+    "answers": [
+      {
+        "text": "To'xtash",
+        "correct": false
+      },
+      {
+        "text": "Protsessorni vaqtincha boshqa vazifaga o'tkazish",
+        "correct": true
+      },
+      {
+        "text": "O'chirish",
+        "correct": false
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ichki uzilish:",
+    "answers": [
+      {
+        "text": "Tashqi qurilmadan",
+        "correct": false
+      },
+      {
+        "text": "Ichki jarayondan",
+        "correct": true
+      },
+      {
+        "text": "Internetdan",
+        "correct": false
+      },
+      {
+        "text": "Kabeldan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tashqi uzilish:",
+    "answers": [
+      {
+        "text": "CPU",
+        "correct": false
+      },
+      {
+        "text": "Tashqi qurilma signali",
+        "correct": true
+      },
+      {
+        "text": "RAM",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uzilish vektori:",
+    "answers": [
+      {
+        "text": "Xotira manzili",
+        "correct": true
+      },
+      {
+        "text": "Signal",
+        "correct": false
+      },
+      {
+        "text": "Kabel",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "ISR (Interrupt Service Routine):",
+    "answers": [
+      {
+        "text": "Asosiy dastur",
+        "correct": false
+      },
+      {
+        "text": "Uzilishni qayta ishlovchi dastur",
+        "correct": true
+      },
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "Grafik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "DMA nima?",
+    "answers": [
+      {
+        "text": "Disk",
+        "correct": false
+      },
+      {
+        "text": "Xotiraga to'g'ridan-to'g'ri murojaat",
+        "correct": true
+      },
+      {
+        "text": "Signal",
+        "correct": false
+      },
+      {
+        "text": "O'yin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Boshqaruv tizimi:",
+    "answers": [
+      {
+        "text": "O'yin",
+        "correct": false
+      },
+      {
+        "text": "Jarayonni boshqaradi",
+        "correct": true
+      },
+      {
+        "text": "Fayl",
+        "correct": false
+      },
+      {
+        "text": "Grafik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ishonchlilik:",
+    "answers": [
+      {
+        "text": "Ishlamaslik",
+        "correct": false
+      },
+      {
+        "text": "Barqaror ishlash",
+        "correct": true
+      },
+      {
+        "text": "Sekinlik",
+        "correct": false
+      },
+      {
+        "text": "Rang",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Energiya samaradorligi:",
+    "answers": [
+      {
+        "text": "Ko'p energiya",
+        "correct": false
+      },
+      {
+        "text": "Kam energiya sarflash",
+        "correct": true
+      },
+      {
+        "text": "Ishlamaslik",
+        "correct": false
+      },
+      {
+        "text": "Sekinlik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'lcham talabi:",
+    "answers": [
+      {
+        "text": "Katta",
+        "correct": false
+      },
+      {
+        "text": "Kichik",
+        "correct": true
+      },
+      {
+        "text": "Og'ir",
+        "correct": false
+      },
+      {
+        "text": "Rangli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sensor:",
+    "answers": [
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "O'lchov qurilmasi",
+        "correct": true
+      },
+      {
+        "text": "CPU",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aktuator:",
+    "answers": [
+      {
+        "text": "Signal qabul qiladi",
+        "correct": false
+      },
+      {
+        "text": "Harakat hosil qiladi",
+        "correct": true
+      },
+      {
+        "text": "Saqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Hisoblaydi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Interfeys turlari:",
+    "answers": [
+      {
+        "text": "Serial va parallel",
+        "correct": true
+      },
+      {
+        "text": "Faqat serial",
+        "correct": false
+      },
+      {
+        "text": "Faqat parallel",
+        "correct": false
+      },
+      {
+        "text": "Yo'q",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Serial uzatish:",
+    "answers": [
+      {
+        "text": "Bir vaqtning o'zida ko'p bit",
+        "correct": false
+      },
+      {
+        "text": "Ketma-ket bit",
+        "correct": true
+      },
+      {
+        "text": "Parallel",
+        "correct": false
+      },
+      {
+        "text": "Yo'q",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Parallel uzatish:",
+    "answers": [
+      {
+        "text": "Ketma-ket",
+        "correct": false
+      },
+      {
+        "text": "Bir vaqtda ko'p bit",
+        "correct": true
+      },
+      {
+        "text": "Sekin",
+        "correct": false
+      },
+      {
+        "text": "Yo'q",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Protsessor tezligi:",
+    "answers": [
+      {
+        "text": "Sekinlik",
+        "correct": false
+      },
+      {
+        "text": "Ishlash tezligi",
+        "correct": true
+      },
+      {
+        "text": "Rang",
+        "correct": false
+      },
+      {
+        "text": "Hajm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xotira turlari:",
+    "answers": [
+      {
+        "text": "RAM va ROM",
+        "correct": true
+      },
+      {
+        "text": "Faqat RAM",
+        "correct": false
+      },
+      {
+        "text": "Faqat ROM",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "RAM:",
+    "answers": [
+      {
+        "text": "Doimiy",
+        "correct": false
+      },
+      {
+        "text": "Vaqtinchalik xotira",
+        "correct": true
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      },
+      {
+        "text": "Signal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "ROM:",
+    "answers": [
+      {
+        "text": "O'chadi",
+        "correct": false
+      },
+      {
+        "text": "Doimiy xotira",
+        "correct": true
+      },
+      {
+        "text": "RAM",
+        "correct": false
+      },
+      {
+        "text": "Signal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Embedded tizim misoli:",
+    "answers": [
+      {
+        "text": "Kir yuvish mashinasi",
+        "correct": true
+      },
+      {
+        "text": "Stol",
+        "correct": false
+      },
+      {
+        "text": "Kitob",
+        "correct": false
+      },
+      {
+        "text": "Qalam",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aqlli qurilmalar:",
+    "answers": [
+      {
+        "text": "Oddiy",
+        "correct": false
+      },
+      {
+        "text": "Embedded tizimli",
+        "correct": true
+      },
+      {
+        "text": "Yozuv",
+        "correct": false
+      },
+      {
+        "text": "Grafik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Boshqaruv algoritmi:",
+    "answers": [
+      {
+        "text": "Tasodifiy",
+        "correct": false
+      },
+      {
+        "text": "Oldindan belgilangan",
+        "correct": true
+      },
+      {
+        "text": "Yo'q",
+        "correct": false
+      },
+      {
+        "text": "Rangli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tizim samaradorligi:",
+    "answers": [
+      {
+        "text": "Ishlamaslik",
+        "correct": false
+      },
+      {
+        "text": "Tez va aniq ishlash",
+        "correct": true
+      },
+      {
+        "text": "Sekinlik",
+        "correct": false
+      },
+      {
+        "text": "Rang",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino nima?",
+    "answers": [
+      {
+        "text": "Operatsion tizim",
+        "correct": false
+      },
+      {
+        "text": "Mikrokontroller asosidagi platforma",
+        "correct": true
+      },
+      {
+        "text": "Internet dasturi",
+        "correct": false
+      },
+      {
+        "text": "Grafik muharrir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino qurilmasining asosiy qismi:",
+    "answers": [
+      {
+        "text": "Monitor",
+        "correct": false
+      },
+      {
+        "text": "Mikrokontroller",
+        "correct": true
+      },
+      {
+        "text": "Printer",
+        "correct": false
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino IDE nima?",
+    "answers": [
+      {
+        "text": "O'yin",
+        "correct": false
+      },
+      {
+        "text": "Dasturlash muhiti",
+        "correct": true
+      },
+      {
+        "text": "Operatsion tizim",
+        "correct": false
+      },
+      {
+        "text": "Antivirus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino IDE orqali nima qilinadi?",
+    "answers": [
+      {
+        "text": "Film ko'riladi",
+        "correct": false
+      },
+      {
+        "text": "Dastur yoziladi va yuklanadi",
+        "correct": true
+      },
+      {
+        "text": "O'yin o'ynaladi",
+        "correct": false
+      },
+      {
+        "text": "Internet ishlatiladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino dasturlash tili:",
+    "answers": [
+      {
+        "text": "Python",
+        "correct": false
+      },
+      {
+        "text": "C/C++ asosida",
+        "correct": true
+      },
+      {
+        "text": "Java",
+        "correct": false
+      },
+      {
+        "text": "HTML",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino'ni kompyuterga ulash:",
+    "answers": [
+      {
+        "text": "HDMI orqali",
+        "correct": false
+      },
+      {
+        "text": "USB orqali",
+        "correct": true
+      },
+      {
+        "text": "Bluetooth orqali",
+        "correct": false
+      },
+      {
+        "text": "VGA orqali",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino platasi nima?",
+    "answers": [
+      {
+        "text": "Disk",
+        "correct": false
+      },
+      {
+        "text": "Elektron plata",
+        "correct": true
+      },
+      {
+        "text": "Monitor",
+        "correct": false
+      },
+      {
+        "text": "Kabel",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino'da \"setup()\" funksiyasi:",
+    "answers": [
+      {
+        "text": "Takrorlanadi",
+        "correct": false
+      },
+      {
+        "text": "Bir marta ishlaydi",
+        "correct": true
+      },
+      {
+        "text": "Ishlamaydi",
+        "correct": false
+      },
+      {
+        "text": "O'chadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"loop()\" funksiyasi:",
+    "answers": [
+      {
+        "text": "Bir marta ishlaydi",
+        "correct": false
+      },
+      {
+        "text": "Doimiy takrorlanadi",
+        "correct": true
+      },
+      {
+        "text": "Ishlamaydi",
+        "correct": false
+      },
+      {
+        "text": "O'chadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino IDE'ni o'rnatish uchun nima kerak?",
+    "answers": [
+      {
+        "text": "Faqat telefon",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter",
+        "correct": true
+      },
+      {
+        "text": "Printer",
+        "correct": false
+      },
+      {
+        "text": "Kamera",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "vBB dasturi nima uchun ishlatiladi?",
+    "answers": [
+      {
+        "text": "O'yin uchun",
+        "correct": false
+      },
+      {
+        "text": "Elektron sxemalarni loyihalash uchun",
+        "correct": true
+      },
+      {
+        "text": "Video ko'rish uchun",
+        "correct": false
+      },
+      {
+        "text": "Matn yozish uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "mBlock dasturi qanday dasturlashni qo'llaydi?",
+    "answers": [
+      {
+        "text": "Matnli",
+        "correct": false
+      },
+      {
+        "text": "Blokli (vizual)",
+        "correct": true
+      },
+      {
+        "text": "Grafik",
+        "correct": false
+      },
+      {
+        "text": "Audio",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "mBlock kimlar uchun qulay?",
+    "answers": [
+      {
+        "text": "Professional dasturchilar",
+        "correct": false
+      },
+      {
+        "text": "Boshlovchilar va o'quvchilar",
+        "correct": true
+      },
+      {
+        "text": "Faqat muhandislar",
+        "correct": false
+      },
+      {
+        "text": "Faqat dizaynerlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino loyihalashda birinchi bosqich:",
+    "answers": [
+      {
+        "text": "Dastur yozish",
+        "correct": false
+      },
+      {
+        "text": "Muammoni aniqlash",
+        "correct": true
+      },
+      {
+        "text": "O'chirish",
+        "correct": false
+      },
+      {
+        "text": "Yuklash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino'da LED ni boshqarish uchun nima kerak?",
+    "answers": [
+      {
+        "text": "Sensor",
+        "correct": false
+      },
+      {
+        "text": "Diod va pin",
+        "correct": true
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      },
+      {
+        "text": "Monitor",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pin nima?",
+    "answers": [
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "Kirish-chiqish nuqtasi",
+        "correct": true
+      },
+      {
+        "text": "Disk",
+        "correct": false
+      },
+      {
+        "text": "Dastur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Digital pin nima?",
+    "answers": [
+      {
+        "text": "Analog signal",
+        "correct": false
+      },
+      {
+        "text": "0 yoki 1 qiymatli signal",
+        "correct": true
+      },
+      {
+        "text": "Kuchlanish",
+        "correct": false
+      },
+      {
+        "text": "Ovoz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Analog pin nima?",
+    "answers": [
+      {
+        "text": "Faqat 0/1",
+        "correct": false
+      },
+      {
+        "text": "Uzluksiz qiymat o'lchaydi",
+        "correct": true
+      },
+      {
+        "text": "O'chadi",
+        "correct": false
+      },
+      {
+        "text": "Ishlamaydi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino'da dastur yuklash tugmasi:",
+    "answers": [
+      {
+        "text": "Delete",
+        "correct": false
+      },
+      {
+        "text": "Upload",
+        "correct": true
+      },
+      {
+        "text": "Save",
+        "correct": false
+      },
+      {
+        "text": "Open",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kompilyatsiya nima?",
+    "answers": [
+      {
+        "text": "O'chirish",
+        "correct": false
+      },
+      {
+        "text": "Dastur kodini tekshirish va tarjima qilish",
+        "correct": true
+      },
+      {
+        "text": "Yuklash",
+        "correct": false
+      },
+      {
+        "text": "Saqlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino IDE'da xatoni tekshirish:",
+    "answers": [
+      {
+        "text": "Run",
+        "correct": false
+      },
+      {
+        "text": "Verify",
+        "correct": true
+      },
+      {
+        "text": "Upload",
+        "correct": false
+      },
+      {
+        "text": "Edit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "mBlock'da dasturlash qanday amalga oshiriladi?",
+    "answers": [
+      {
+        "text": "Kod yozish",
+        "correct": false
+      },
+      {
+        "text": "Bloklarni joylashtirish",
+        "correct": true
+      },
+      {
+        "text": "Matn kiritish",
+        "correct": false
+      },
+      {
+        "text": "Fayl ochish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino loyihasida sensor nima qiladi?",
+    "answers": [
+      {
+        "text": "Harakat hosil qiladi",
+        "correct": false
+      },
+      {
+        "text": "Ma'lumot o'lchaydi",
+        "correct": true
+      },
+      {
+        "text": "Saqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Hisoblaydi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arduino'ning asosiy afzalligi:",
+    "answers": [
+      {
+        "text": "Qimmat",
+        "correct": false
+      },
+      {
+        "text": "Oson va qulay foydalanish",
+        "correct": true
+      },
+      {
+        "text": "Murakkab",
+        "correct": false
+      },
+      {
+        "text": "Sekin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatilgan tizim loyihalash vositalari:",
+    "answers": [
+      {
+        "text": "Arduino IDE, vBB, mBlock",
+        "correct": true
+      },
+      {
+        "text": "Word, Excel",
+        "correct": false
+      },
+      {
+        "text": "Paint",
+        "correct": false
+      },
+      {
+        "text": "Browser",
+        "correct": false
+      }
+    ]
+  }
+]
