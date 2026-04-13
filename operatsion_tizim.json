@@ -1,0 +1,3236 @@
+[
+  {
+    "question": "Svoping (swapping) bu?",
+    "answers": [
+      {
+        "text": "Fayllarni bir diskdan ikkinchisiga ko'chirish usuli.",
+        "correct": false
+      },
+      {
+        "text": "Protsessor registrlarini vaqtincha bo'shatish jarayoni.",
+        "correct": false
+      },
+      {
+        "text": "Virtual xotirani o'chirib tashlash amali.",
+        "correct": false
+      },
+      {
+        "text": "Operativ xotira (RAM) yetishmaganda, vaqtincha ishlatilmayotgan jarayonlarni qattiq diskka ko'chirish jarayoni.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "NTFS fayl tizimi qaysi bitli operatsion tizimlarda ishlaydi?",
+    "answers": [
+      {
+        "text": "16 va 32 bitli tizimlarda.",
+        "correct": false
+      },
+      {
+        "text": "Faqat 32 bitli tizimlarda.",
+        "correct": false
+      },
+      {
+        "text": "32 va 64.",
+        "correct": true
+      },
+      {
+        "text": "Faqat 64 bitli tizimlarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jarayonni rejalashtirish darajalari qaysilar?",
+    "answers": [
+      {
+        "text": "Yuqori, o'rta va quyi.",
+        "correct": false
+      },
+      {
+        "text": "Birinchi, ikkinchi va uchinchi.",
+        "correct": false
+      },
+      {
+        "text": "Tezkor, sekin va o'rta.",
+        "correct": false
+      },
+      {
+        "text": "Uzoq muddatli, o'rta muddatli va qisqa muddatli.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xotira ierarxiyasi bo'yicha eng tezkor xotira turi?",
+    "answers": [
+      {
+        "text": "Kesh (Cache) xotira.",
+        "correct": false
+      },
+      {
+        "text": "Operativ xotira (RAM).",
+        "correct": false
+      },
+      {
+        "text": "Protsessor registrlari.",
+        "correct": true
+      },
+      {
+        "text": "SSD disk.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ochiq kodli operatsion tizimlarda...?",
+    "answers": [
+      {
+        "text": "Tizim kodlari maxfiy va o'zgartirib bo'lmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat ishlab chiqaruvchi kompaniya kodlarni ko'ra oladi.",
+        "correct": false
+      },
+      {
+        "text": "Kodlarni ko'rish uchun litsenziya sotib olish kerak.",
+        "correct": false
+      },
+      {
+        "text": "Tizim kodlari ochiq, ixtiyoriy foydalanuvchi uni o'zgartirishi mumkin.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Virtual xotiraning mantiqiy jihatdan tashkil etilgan bo'lagi nima deb ataladi?",
+    "answers": [
+      {
+        "text": "Sahifa (page) deyiladi.",
+        "correct": false
+      },
+      {
+        "text": "Sektor deyiladi.",
+        "correct": false
+      },
+      {
+        "text": "Blok deyiladi.",
+        "correct": false
+      },
+      {
+        "text": "Segment deyiladi (mantiqiy bo'linish segmentatsiya, fizik bo'linish esa sahifalash deyiladi).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Dasturiy ta'minot vazifasiga ko'ra qanday asosiy turlarga bo'linadi?",
+    "answers": [
+      {
+        "text": "Ochiq va yopiq dasturiy ta'minot.",
+        "correct": false
+      },
+      {
+        "text": "Tizimli va amaliy dasturiy ta'minot.",
+        "correct": false
+      },
+      {
+        "text": "Tizimli (System), amaliy (Application) va instrumental (Programming tools) dasturiy ta'minot.",
+        "correct": true
+      },
+      {
+        "text": "Serverli va klientli dasturiy ta'minot.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows operatsion tizimlarining boshqa operatsion tizimlardan printsipial farqi?",
+    "answers": [
+      {
+        "text": "Faqat buyruq satri interfeysiga ega bo'lishi.",
+        "correct": false
+      },
+      {
+        "text": "Internet bilan ishlash imkoniyati.",
+        "correct": false
+      },
+      {
+        "text": "Grafik interfeysi va bir nechta ilovalar bilan birgalikda ishlash.",
+        "correct": true
+      },
+      {
+        "text": "Faqat bitta dasturni bajarishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Multidasturlash bu?",
+    "answers": [
+      {
+        "text": "Protsessordan samarali foydalanish uchun xotirada bir vaqtning o'zida bir nechta jarayonni ushlab turish va ularni navbat bilan bajarish usuli.",
+        "correct": true
+      },
+      {
+        "text": "Bitta dasturni bir necha marta ishga tushirish.",
+        "correct": false
+      },
+      {
+        "text": "Bir vaqtda bir nechta protsessor ishlatish usuli.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq orqali hisoblashlarni taqsimlash usuli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Amaliy dasturiy ta'minot dasturlari qaysilar?",
+    "answers": [
+      {
+        "text": "Operatsion tizim yadrosi bilan bevosita bog'liq dasturlar.",
+        "correct": false
+      },
+      {
+        "text": "Faqat tarmoq xizmatlarini boshqaruvchi dasturlar.",
+        "correct": false
+      },
+      {
+        "text": "Aniq soha masalalarini yechishni ta'minlovchi dasturlardir.",
+        "correct": true
+      },
+      {
+        "text": "Kompyuter apparat vositalarini boshqaruvchi dasturlar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Utilitalar (Utilities) — bu ...",
+    "answers": [
+      {
+        "text": "Faqat matn tahrirlash uchun ishlatiladigan dasturlar.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi uchun mo'ljallangan asosiy ilovalar.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq protokollarini boshqaruvchi tizimlar.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter apparat vositalari ishini sozlovchi va qo'shimcha xizmat ko'rsatuvchi yordamchi dasturlar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "FAT fayl tizimida mantiqiy disk qanday asosiy sohalardan tashkil topadi?",
+    "answers": [
+      {
+        "text": "Faqat ma'lumotlar sohasi va boot sektor.",
+        "correct": false
+      },
+      {
+        "text": "FAT jadvali va kataloglar sohasi.",
+        "correct": false
+      },
+      {
+        "text": "Boot sektor va ma'lumotlar sohasi.",
+        "correct": false
+      },
+      {
+        "text": "Rezervlangan soha, FAT jadvali (1 va 2-nusxa) hamda ma'lumotlar sohasi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Windows NT/2000/XP operatsion tizimining ijro tizimi quyidagi qaysi komponentalardan iborat?",
+    "answers": [
+      {
+        "text": "Fayl tizimi, tarmoq va xavfsizlik.",
+        "correct": false
+      },
+      {
+        "text": "Faqat jarayonlar va virtual xotira.",
+        "correct": false
+      },
+      {
+        "text": "Jarayonlar, virtual xotira, ob'ektlar dispetcheri, xavfsizlik monitori, kiritish-chiqarish dispetcheri, lokal protseduralarni chaqirish vositasi.",
+        "correct": true
+      },
+      {
+        "text": "Yadro, drayverlar va foydalanuvchi interfeysi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fayllar tuzilishining asosiy birligi?",
+    "answers": [
+      {
+        "text": "Bloklar.",
+        "correct": false
+      },
+      {
+        "text": "Klasterlar.",
+        "correct": false
+      },
+      {
+        "text": "Sektorlar.",
+        "correct": false
+      },
+      {
+        "text": "Kataloglar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi operatsion tizimlardan qaysi biri ko'p masalali va ko'p foydalanuvchili hisoblanadi?",
+    "answers": [
+      {
+        "text": "UNIX.",
+        "correct": true
+      },
+      {
+        "text": "Windows XP.",
+        "correct": false
+      },
+      {
+        "text": "Chrome OS.",
+        "correct": false
+      },
+      {
+        "text": "MS-DOS.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tarmoq operatsion tizimining qaysi qismi ilovalardan barcha so'rovlarni qabul qilib ularni analiz qiladi?",
+    "answers": [
+      {
+        "text": "Fayl menejeri.",
+        "correct": false
+      },
+      {
+        "text": "Klient qismi (so'rovlarni analiz qilib, kerakli resursga yo'naltiradi).",
+        "correct": true
+      },
+      {
+        "text": "Yadro qismi.",
+        "correct": false
+      },
+      {
+        "text": "Server qismi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Multidasturlash rejimida ishlaydigan operatsion tizimlar qachon yuzaga kelgan?",
+    "answers": [
+      {
+        "text": "1-davr (1945-1955).",
+        "correct": false
+      },
+      {
+        "text": "4-davr (1980-hozirgacha).",
+        "correct": false
+      },
+      {
+        "text": "2-davr (1955-1965).",
+        "correct": false
+      },
+      {
+        "text": "Rivojlanish 3-davriga yuzaga keldi (1965-1980 yillar, integral sxemalar davri).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Kompyuter tarkibiga kiruvchi turli qurilmalarni boshqaruvchi maxsus dasturlar ... deb ataladi.",
+    "answers": [
+      {
+        "text": "Utilitalar.",
+        "correct": false
+      },
+      {
+        "text": "Interpretatorlar.",
+        "correct": false
+      },
+      {
+        "text": "Drayverlar.",
+        "correct": true
+      },
+      {
+        "text": "Kompilyatorlar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Foydalanuvchi tizim bilan ishlayotgan vaqtda parametrlarni qisqartirish imkon beradigan printsip qaysi?",
+    "answers": [
+      {
+        "text": "Virtual xotira printsipi.",
+        "correct": false
+      },
+      {
+        "text": "Ko'p foydalanuvchi printsipi.",
+        "correct": false
+      },
+      {
+        "text": "Grafik interfeys printsipi.",
+        "correct": false
+      },
+      {
+        "text": "Standart holatlar (po umolchaniyu) printsipi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Tizimli dasturiy ta'minot bu?",
+    "answers": [
+      {
+        "text": "Kompyuter tizimining dasturlari va bevosita apparat ta'minoti bilan o'zaro bog'lanishini ta'minlaydi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat foydalanuvchi ilovalarini ishga tushiruvchi dasturlar.",
+        "correct": false
+      },
+      {
+        "text": "Aniq soha masalalarini yechuvchi dasturlar.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq aloqasini ta'minlovchi dasturlar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Monolit operatsion tizimlarining tuzilishi?",
+    "answers": [
+      {
+        "text": "3 ta sathdan iborat (bosh dastur, protsedura va servis dasturlari).",
+        "correct": true
+      },
+      {
+        "text": "Klient-server arxitekturasi.",
+        "correct": false
+      },
+      {
+        "text": "Ko'p sathli mikro yadro tuzilishi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat yadro va foydalanuvchi interfeysi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zamonaviy operatsion tizimlarda xotira qanday bo'linadi?",
+    "answers": [
+      {
+        "text": "Segment sahifali bo'linadi.",
+        "correct": true
+      },
+      {
+        "text": "Klasterli bo'linadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat segmentatsiya usulida bo'linadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat sahifalash usulida bo'linadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Amaliy dasturiy ta'minot:",
+    "answers": [
+      {
+        "text": "Kompyuter apparat vositalarini boshqaruvchi dastur.",
+        "correct": false
+      },
+      {
+        "text": "Faqat o'yin va ko'ngilochar dasturlar.",
+        "correct": false
+      },
+      {
+        "text": "Operatsion tizimning bir qismi.",
+        "correct": false
+      },
+      {
+        "text": "Ma'lum ish joyida aniq masalalarni yechishga yordam beradigan dastur.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Apple kompaniyasi tomonidan 1984-yilda chiqarilgan, grafik interfeys va sichqonchani ommalashtirgan birinchi muvaffaqiyatli shaxsiy kompyuter qaysi?",
+    "answers": [
+      {
+        "text": "IBM PC.",
+        "correct": false
+      },
+      {
+        "text": "Xerox Alto.",
+        "correct": false
+      },
+      {
+        "text": "Macintosh.",
+        "correct": true
+      },
+      {
+        "text": "Apple II.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi vosita yordamida siqilgan fayllarni qayta yoymasdan qayta ishlash mumkin?",
+    "answers": [
+      {
+        "text": "exFAT.",
+        "correct": false
+      },
+      {
+        "text": "NTFS.",
+        "correct": true
+      },
+      {
+        "text": "FAT32.",
+        "correct": false
+      },
+      {
+        "text": "ext4.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kompyuterlar uchun birinchi operatsion tizim nima deb atalgan?",
+    "answers": [
+      {
+        "text": "UNIX.",
+        "correct": false
+      },
+      {
+        "text": "CP/M.",
+        "correct": false
+      },
+      {
+        "text": "GM-NAA.",
+        "correct": true
+      },
+      {
+        "text": "MS-DOS.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "GM-NAA operatsion tizimi nechanchi yilda yaratilgan?",
+    "answers": [
+      {
+        "text": "1980.",
+        "correct": false
+      },
+      {
+        "text": "1969.",
+        "correct": false
+      },
+      {
+        "text": "1945.",
+        "correct": false
+      },
+      {
+        "text": "1955 (ba'zi manbalarda 1956).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "40-yillarning o'rtalarida birinchi qanday hisoblash qurilmalari yaratilgan?",
+    "answers": [
+      {
+        "text": "Tranzistorli.",
+        "correct": false
+      },
+      {
+        "text": "Mikroprotsessorli.",
+        "correct": false
+      },
+      {
+        "text": "Lampali.",
+        "correct": true
+      },
+      {
+        "text": "Integral sxemali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimlarning nechta davri bor?",
+    "answers": [
+      {
+        "text": "6.",
+        "correct": false
+      },
+      {
+        "text": "3.",
+        "correct": false
+      },
+      {
+        "text": "4.",
+        "correct": true
+      },
+      {
+        "text": "5.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimlar evolyutsiyasining to'rtinchi davri nimaning paydo bo'lishi bilan bog'liq?",
+    "answers": [
+      {
+        "text": "Mikroprotsessorlarning paydo bo'lishi.",
+        "correct": true
+      },
+      {
+        "text": "Integral sxemalarning paydo bo'lishi.",
+        "correct": false
+      },
+      {
+        "text": "Tranzistorlarning paydo bo'lishi.",
+        "correct": false
+      },
+      {
+        "text": "Internetning paydo bo'lishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "1992-yilda AT&T barcha UNIX tizimlarini qaysi kompaniyaga sotgan?",
+    "answers": [
+      {
+        "text": "IBM.",
+        "correct": false
+      },
+      {
+        "text": "Novell.",
+        "correct": true
+      },
+      {
+        "text": "Apple.",
+        "correct": false
+      },
+      {
+        "text": "Microsoft.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux operatsion tizimi nechanchi yil tuzilgan?",
+    "answers": [
+      {
+        "text": "1991.",
+        "correct": true
+      },
+      {
+        "text": "2000.",
+        "correct": false
+      },
+      {
+        "text": "1984.",
+        "correct": false
+      },
+      {
+        "text": "1969.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows XP qachon chiqarilgan?",
+    "answers": [
+      {
+        "text": "2001.",
+        "correct": true
+      },
+      {
+        "text": "1998.",
+        "correct": false
+      },
+      {
+        "text": "2003.",
+        "correct": false
+      },
+      {
+        "text": "2007.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Unix operatsion tizimi qachon yaratilgan?",
+    "answers": [
+      {
+        "text": "1955.",
+        "correct": false
+      },
+      {
+        "text": "1984.",
+        "correct": false
+      },
+      {
+        "text": "1969.",
+        "correct": true
+      },
+      {
+        "text": "1975.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan?",
+    "answers": [
+      {
+        "text": "MIT Lincoln Laboratory.",
+        "correct": false
+      },
+      {
+        "text": "NASA Ames Research Center.",
+        "correct": false
+      },
+      {
+        "text": "AT&T Bell Laboratories.",
+        "correct": true
+      },
+      {
+        "text": "Xerox PARC.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi?",
+    "answers": [
+      {
+        "text": "Windows Server, macOS.",
+        "correct": false
+      },
+      {
+        "text": "Android, iOS.",
+        "correct": false
+      },
+      {
+        "text": "Chrome OS, Ubuntu Desktop.",
+        "correct": false
+      },
+      {
+        "text": "Solaris, Linux.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Windows operatsion tizimida buyruqlar qatori (cmd) ga qaysi tezkor tugmalar yordamida tez murojaat qilish mumkin?",
+    "answers": [
+      {
+        "text": "Ctrl + Alt + T.",
+        "correct": false
+      },
+      {
+        "text": "Win + R (Bu tugmalar 'Выполнить' darchasini ochadi, u yerga cmd deb yoziladi).",
+        "correct": true
+      },
+      {
+        "text": "Ctrl + Shift + Esc.",
+        "correct": false
+      },
+      {
+        "text": "Alt + F4.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizim nima?",
+    "answers": [
+      {
+        "text": "Foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat tarmoq xizmatlarini boshqaruvchi tizim.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuterning fizik qismi.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi ilovalari to'plami.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizim asosan ...",
+    "answers": [
+      {
+        "text": "Amaliy dasturlar jamlanmasi.",
+        "correct": false
+      },
+      {
+        "text": "Tizimli dasturlar jamlanmasi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat grafik interfeys.",
+        "correct": false
+      },
+      {
+        "text": "Faqat fayl tizimi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilardan qaysi biri operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi?",
+    "answers": [
+      {
+        "text": "Protsessor, RAM, HDD.",
+        "correct": false
+      },
+      {
+        "text": "Monitor, klaviatura, sichqoncha.",
+        "correct": false
+      },
+      {
+        "text": "Brauzer, ofis dasturlari, o'yinlar.",
+        "correct": false
+      },
+      {
+        "text": "Yadro, kiritish-chiqarish tizimi, komanda prosessori, fayl tizimi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimning asosiy tashkil etuvchisi kiritish-chiqarish tizimi bu?",
+    "answers": [
+      {
+        "text": "Jarayonlarni rejalashtiruvchi modul.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi buyruqlarini qabul qiluvchi dastur.",
+        "correct": false
+      },
+      {
+        "text": "Tashqi qurilmalar bilan ma'lumotlarni kiritish-chiqarish masalasini ta'minlaydi.",
+        "correct": true
+      },
+      {
+        "text": "Fayllarni saqlash va o'chirish uchun xizmat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimning asosiy tashkil etuvchisi komanda protsessori bu?",
+    "answers": [
+      {
+        "text": "Fayl tizimini saqlash vositasi.",
+        "correct": false
+      },
+      {
+        "text": "Tashqi qurilmalarni boshqaruvchi dastur.",
+        "correct": false
+      },
+      {
+        "text": "Komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo'yicha mos xizmatlarni chaqirishni ta'minlaydi.",
+        "correct": true
+      },
+      {
+        "text": "Xotirani boshqaruvchi modul.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Buyruq interpretatori bu?",
+    "answers": [
+      {
+        "text": "Tarmoq paketlarini yo'naltiradi.",
+        "correct": false
+      },
+      {
+        "text": "Dasturiy kodlarni mashina kodiga aylantiradi.",
+        "correct": false
+      },
+      {
+        "text": "Fayllarni siqib arxivlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Buyruqlarni tahlil qiladi va bajaradi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimning rivojlanish tarixining 1-avlodi nechinchi yillarni o'z ichiga oladi?",
+    "answers": [
+      {
+        "text": "1935–1945.",
+        "correct": false
+      },
+      {
+        "text": "1945–1955.",
+        "correct": true
+      },
+      {
+        "text": "1965–1980.",
+        "correct": false
+      },
+      {
+        "text": "1955–1965.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimning rivojlanish tarixining 2-avlodi nechinchi yillarni o'z ichiga oladi?",
+    "answers": [
+      {
+        "text": "1945–1955.",
+        "correct": false
+      },
+      {
+        "text": "1955–1965.",
+        "correct": true
+      },
+      {
+        "text": "1980-hozirgacha.",
+        "correct": false
+      },
+      {
+        "text": "1965–1980.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimning rivojlanish tarixining 3-avlodi nechinchi yillarni o'z ichiga oladi?",
+    "answers": [
+      {
+        "text": "1980-hozirgacha.",
+        "correct": false
+      },
+      {
+        "text": "1965–1980.",
+        "correct": true
+      },
+      {
+        "text": "1945–1955.",
+        "correct": false
+      },
+      {
+        "text": "1955–1965.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimning rivojlanish tarixining 4-avlodi nechinchi yillarni o'z ichiga oladi?",
+    "answers": [
+      {
+        "text": "1945–1955.",
+        "correct": false
+      },
+      {
+        "text": "1965–1980.",
+        "correct": false
+      },
+      {
+        "text": "1955–1965.",
+        "correct": false
+      },
+      {
+        "text": "1980 yildan to hozirgacha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Birinchi avlod kompyuterlari analitik mashinasi kim tomonidan yaratilgan?",
+    "answers": [
+      {
+        "text": "Alan Turing.",
+        "correct": false
+      },
+      {
+        "text": "John von Neumann.",
+        "correct": false
+      },
+      {
+        "text": "Charles Babbage.",
+        "correct": true
+      },
+      {
+        "text": "Bill Gates.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi avlod tizimlaridan boshlab operatsion tizimlar o'rnatila boshlagan?",
+    "answers": [
+      {
+        "text": "4-avlod.",
+        "correct": false
+      },
+      {
+        "text": "2-avlod (aynan GM-NAA kabi ilk tizimlar shu davrda paydo bo'lgan).",
+        "correct": true
+      },
+      {
+        "text": "1-avlod.",
+        "correct": false
+      },
+      {
+        "text": "3-avlod.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nechanchi yillardan boshlab paketli operatsion tizimlar ishlab chiqarilgan?",
+    "answers": [
+      {
+        "text": "1945 yil.",
+        "correct": false
+      },
+      {
+        "text": "1975 yil.",
+        "correct": false
+      },
+      {
+        "text": "1980 yil.",
+        "correct": false
+      },
+      {
+        "text": "1960 yil.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "4-avlod kompyuterlar sinfiga qanday kompyuterlar kiradi?",
+    "answers": [
+      {
+        "text": "Meynfreymlar.",
+        "correct": false
+      },
+      {
+        "text": "Lampali kompyuterlar.",
+        "correct": false
+      },
+      {
+        "text": "Tranzistorli kompyuterlar.",
+        "correct": false
+      },
+      {
+        "text": "Personal va super kompyuterlar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ubuntu operatsion tizimi ...?",
+    "answers": [
+      {
+        "text": "Microsoft tomonidan ishlab chiqilgan OT.",
+        "correct": false
+      },
+      {
+        "text": "Apple tomonidan ishlab chiqilgan OT.",
+        "correct": false
+      },
+      {
+        "text": "Faqat server uchun mo'ljallangan yopiq OT.",
+        "correct": false
+      },
+      {
+        "text": "Linux yadrosiga asoslangan ochiq kodli operatsion tizim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Masalalarni qayta ishlash rejimi bo'yicha operatsion tizimlar sinflanishi?",
+    "answers": [
+      {
+        "text": "Bir vazifali, ko'p vazifali.",
+        "correct": true
+      },
+      {
+        "text": "Monolit va mikro yadroli.",
+        "correct": false
+      },
+      {
+        "text": "Ochiq va yopiq.",
+        "correct": false
+      },
+      {
+        "text": "Tizimli va amaliy.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'zaro bog'lanish bo'yicha operatsion tizimlar sinflanishi?",
+    "answers": [
+      {
+        "text": "Bir foydalanuvchi va ko'p foydalanuvchi.",
+        "correct": true
+      },
+      {
+        "text": "Monolit va klient-server.",
+        "correct": false
+      },
+      {
+        "text": "Real vaqt va paketli.",
+        "correct": false
+      },
+      {
+        "text": "Bir vazifali va ko'p vazifali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Meynfreymlar (Mainframes) bu?",
+    "answers": [
+      {
+        "text": "Smartfonlar va planshetlar.",
+        "correct": false
+      },
+      {
+        "text": "Katta hajmdagi ma'lumotlarni qayta ishlovchi, yuqori ishonchlilikka ega va kiritish-chiqarish amallari ko'p bo'lgan markaziy kompyuterlar.",
+        "correct": true
+      },
+      {
+        "text": "Faqat o'yin uchun ishlatiladigan kompyuterlar.",
+        "correct": false
+      },
+      {
+        "text": "Shaxsiy foydalanish uchun mo'ljallangan kichik kompyuterlar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Minikompyuterlar (Minicomputers) bu?",
+    "answers": [
+      {
+        "text": "Hajmi va quvvati bo'yicha meynfreymlar hamda shaxsiy kompyuterlar orasidagi oraliq sinfga kiruvchi kompyuterlar.",
+        "correct": true
+      },
+      {
+        "text": "Super kompyuterlarning kichik turi.",
+        "correct": false
+      },
+      {
+        "text": "Meynfreymlardan kuchliroq kompyuterlar.",
+        "correct": false
+      },
+      {
+        "text": "Shaxsiy kompyuterlar bilan bir xil kompyuterlar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Super kompyuterlar bu?",
+    "answers": [
+      {
+        "text": "Juda katta tezlikni talab qiladigan va katta hajmdagi masalalarni yechish uchun mo'ljallangan, bir sekundda 10 trilliardlab amal bajaruvchi kompyuterlar.",
+        "correct": true
+      },
+      {
+        "text": "Shaxsiy foydalanish uchun mo'ljallangan kuchli kompyuterlar.",
+        "correct": false
+      },
+      {
+        "text": "Meynfreymlardan kichik hisoblash qurilmalari.",
+        "correct": false
+      },
+      {
+        "text": "Faqat internet serverlar uchun ishlatiladigan kompyuterlar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimlar tuzilishiga ko'ra sinflanishi?",
+    "answers": [
+      {
+        "text": "Bir vazifali, ko'p vazifali.",
+        "correct": false
+      },
+      {
+        "text": "Bir foydalanuvchi, ko'p foydalanuvchi.",
+        "correct": false
+      },
+      {
+        "text": "Real vaqt, paketli, multidastur.",
+        "correct": false
+      },
+      {
+        "text": "Monolit, ko'p sathli, Klient-Server, Mikro yadroli.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Monolit operatsion tizimlar bu?",
+    "answers": [
+      {
+        "text": "Klient va server qismlardan iborat.",
+        "correct": false
+      },
+      {
+        "text": "Ko'p sathli mikroxizmatlar tizimi.",
+        "correct": false
+      },
+      {
+        "text": "Kichik yadro va ko'p xizmat dasturlari.",
+        "correct": false
+      },
+      {
+        "text": "Barcha xizmatlar yagona yadroda joylashgan.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimga qo'yiladigan talablar bular?",
+    "answers": [
+      {
+        "text": "Faqat samaradorlik.",
+        "correct": false
+      },
+      {
+        "text": "Ishonchlilik, qulaylik, samaradorlik va xavfsizlik.",
+        "correct": true
+      },
+      {
+        "text": "Faqat grafik interfeys va qulaylik.",
+        "correct": false
+      },
+      {
+        "text": "Faqat tezlik va xavfsizlik.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jarayon (process) nima?",
+    "answers": [
+      {
+        "text": "Diskda saqlangan dastur fayli.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi interfeysi oynasi.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoqdagi ma'lumotlar paketi.",
+        "correct": false
+      },
+      {
+        "text": "Bajarilayotgan dasturning holati — kod, ma'lumotlar va resurslar to'plami.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jarayonning holatlari qaysilar?",
+    "answers": [
+      {
+        "text": "Yuklash, ishlash, o'chirish.",
+        "correct": false
+      },
+      {
+        "text": "Faol, passiv, to'xtatilgan.",
+        "correct": false
+      },
+      {
+        "text": "Yangi, tayyor, bajarilmoqda, kutmoqda, tugatilgan.",
+        "correct": true
+      },
+      {
+        "text": "Ochiq, yopiq, kutish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Deadlock (tupik) nima?",
+    "answers": [
+      {
+        "text": "Protsessor haddan tashqari isib ketishi.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq ulanishi uzilishi.",
+        "correct": false
+      },
+      {
+        "text": "Ikkita yoki undan ortiq jarayon bir-birining resursini kutib cheksiz bloklanib qolishi.",
+        "correct": true
+      },
+      {
+        "text": "Disk to'lib qolishi natijasidagi xato.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fayl nima?",
+    "answers": [
+      {
+        "text": "Diskda nomlangan ma'lumotlar to'plami.",
+        "correct": true
+      },
+      {
+        "text": "Operativ xotiradagi vaqtinchalik ma'lumot.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq orqali uzatiladigan paket.",
+        "correct": false
+      },
+      {
+        "text": "Protsessor registridagi qiymat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fayl kengaytmasi (extension) nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Faylni tarmoqda uzatish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Faylning turini va qaysi dastur bilan ochilishini aniqlash uchun.",
+        "correct": true
+      },
+      {
+        "text": "Faylni shifrlash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Faylning hajmini ko'rsatish uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Katalog (papka) nima?",
+    "answers": [
+      {
+        "text": "Tarmoq xizmati.",
+        "correct": false
+      },
+      {
+        "text": "Alohida dastur turi.",
+        "correct": false
+      },
+      {
+        "text": "Fayllarni va boshqa kataloglarni guruhlash uchun ishlatiladigan konteyner.",
+        "correct": true
+      },
+      {
+        "text": "Operativ xotira bo'limi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sahifalash (Paging) nima?",
+    "answers": [
+      {
+        "text": "Fayllarni qismlarga bo'lib diskda saqlash.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq ma'lumotlarini paketlarga bo'lish.",
+        "correct": false
+      },
+      {
+        "text": "Fizik xotirani teng o'lchamli bo'laklarga (sahifalarga) bo'lib boshqarish usuli.",
+        "correct": true
+      },
+      {
+        "text": "Protsessor vazifalarini qismlarga bo'lish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kesh (Cache) xotira nima?",
+    "answers": [
+      {
+        "text": "Virtual xotira bo'limi.",
+        "correct": false
+      },
+      {
+        "text": "Asosiy saqlash qurilmasi.",
+        "correct": false
+      },
+      {
+        "text": "Internet brauzer tarixi.",
+        "correct": false
+      },
+      {
+        "text": "Tez-tez ishlatiladigan ma'lumotlarni vaqtincha saqlash uchun mo'ljallangan yuqori tezlikdagi xotira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Interrupt (uzilish) nima?",
+    "answers": [
+      {
+        "text": "Apparat yoki dasturiy ta'minot tomonidan protsessor e'tiborini talab qiluvchi signal.",
+        "correct": true
+      },
+      {
+        "text": "Tarmoq ulanishi uzilish signali.",
+        "correct": false
+      },
+      {
+        "text": "Protsessor issiqligi ko'tarilishi haqida ogohlantirish.",
+        "correct": false
+      },
+      {
+        "text": "Disk to'lib qolishi haqida xabar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Yadro (Kernel) nima?",
+    "answers": [
+      {
+        "text": "Foydalanuvchi interfeysi oynasi.",
+        "correct": false
+      },
+      {
+        "text": "Operatsion tizimning markaziy qismi bo'lib, apparat va dasturiy ta'minot o'rtasida vositachi bo'lib xizmat qiladi.",
+        "correct": true
+      },
+      {
+        "text": "Brauzerning asosiy dasturi.",
+        "correct": false
+      },
+      {
+        "text": "Antivirusning asosiy moduli.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Real vaqt operatsion tizimi (RTOS) qayerda ishlatiladi?",
+    "answers": [
+      {
+        "text": "Faqat o'yin kompyuterlarida.",
+        "correct": false
+      },
+      {
+        "text": "Faqat smartfonlarda.",
+        "correct": false
+      },
+      {
+        "text": "Faqat server tizimlarda.",
+        "correct": false
+      },
+      {
+        "text": "Aviatsiya, tibbiyot, sanoat avtomatikasi kabi vaqtga aniq bog'liq tizimlarda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jarayon prioriteti (priority) nima?",
+    "answers": [
+      {
+        "text": "Jarayon hajmi.",
+        "correct": false
+      },
+      {
+        "text": "Jarayon egallagan disk maydoni.",
+        "correct": false
+      },
+      {
+        "text": "Jarayonning protsessor vaqtidan foydalanishga ustunlik darajasi.",
+        "correct": true
+      },
+      {
+        "text": "Jarayon ishlagan vaqti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Shell (qobiq) nima?",
+    "answers": [
+      {
+        "text": "Disk partitsiyasi.",
+        "correct": false
+      },
+      {
+        "text": "Xotira bloki.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi buyruqlarini qabul qilib, yadroga yetkazuvchi dasturiy interfeys.",
+        "correct": true
+      },
+      {
+        "text": "Kompyuter korpusi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux terminali va Windows CMD o'rtasidagi asosiy farq?",
+    "answers": [
+      {
+        "text": "Linux terminalida grafik interfeys mavjud.",
+        "correct": false
+      },
+      {
+        "text": "Linux terminali kuchliroq skriptlash imkoniyatlari va case-sensitive buyruqlarga ega.",
+        "correct": true
+      },
+      {
+        "text": "Windows CMD da ko'proq buyruqlar mavjud.",
+        "correct": false
+      },
+      {
+        "text": "Windows CMD tezroq ishlaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fayl tizimi (File System) nima?",
+    "answers": [
+      {
+        "text": "Fayllarni siqib arxivlash tizimi.",
+        "correct": false
+      },
+      {
+        "text": "Diskdagi ma'lumotlarni tartibli saqlash va ularga tez murojaat qilish uchun mo'ljallangan tizim.",
+        "correct": true
+      },
+      {
+        "text": "Fayllarni tarmoq orqali yuborish tizimi.",
+        "correct": false
+      },
+      {
+        "text": "Fayllarni shifrlash tizimi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "ext4 fayl tizimi qaysi operatsion tizimda keng qo'llaniladi?",
+    "answers": [
+      {
+        "text": "macOS.",
+        "correct": false
+      },
+      {
+        "text": "Android.",
+        "correct": false
+      },
+      {
+        "text": "Windows.",
+        "correct": false
+      },
+      {
+        "text": "Linux.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "BIOS nima?",
+    "answers": [
+      {
+        "text": "Tarmoq kartasi drayveri.",
+        "correct": false
+      },
+      {
+        "text": "Antivirus tizimi.",
+        "correct": false
+      },
+      {
+        "text": "Grafik karta boshqaruv dasturi.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter yoqilganda apparat vositalarini ishga tushiruvchi va OTni yuklashni boshlovchi dasturiy ta'minot.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "UEFI va BIOS o'rtasidagi farq nima?",
+    "answers": [
+      {
+        "text": "BIOS zamonaviyroq va kuchliroq.",
+        "correct": false
+      },
+      {
+        "text": "UEFI faqat Linux uchun ishlatiladi.",
+        "correct": false
+      },
+      {
+        "text": "Farq yo'q, ular bir xil tushuncha.",
+        "correct": false
+      },
+      {
+        "text": "UEFI zamonaviyroq, tezroq yuklanadi va katta disklarni (2TB+) qo'llaydi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Windows'da 'Vazifalar boshqaruvchisi' (Task Manager) qaysi tugmalar bilan ochiladi?",
+    "answers": [
+      {
+        "text": "Ctrl + Shift + Esc.",
+        "correct": true
+      },
+      {
+        "text": "Win + D.",
+        "correct": false
+      },
+      {
+        "text": "Ctrl + Alt + Del.",
+        "correct": false
+      },
+      {
+        "text": "Alt + F4.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux'da fayllar va kataloglar ro'yxatini ko'rsatish buyrug'i?",
+    "answers": [
+      {
+        "text": "list.",
+        "correct": false
+      },
+      {
+        "text": "ls.",
+        "correct": true
+      },
+      {
+        "text": "show.",
+        "correct": false
+      },
+      {
+        "text": "dir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux'da faylni o'chirish buyrug'i?",
+    "answers": [
+      {
+        "text": "erase.",
+        "correct": false
+      },
+      {
+        "text": "rm.",
+        "correct": true
+      },
+      {
+        "text": "remove.",
+        "correct": false
+      },
+      {
+        "text": "del.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux'da katalog yaratish buyrug'i?",
+    "answers": [
+      {
+        "text": "mkdir.",
+        "correct": true
+      },
+      {
+        "text": "createdir.",
+        "correct": false
+      },
+      {
+        "text": "newdir.",
+        "correct": false
+      },
+      {
+        "text": "makefolder.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux'da joriy katalogni ko'rsatish buyrug'i?",
+    "answers": [
+      {
+        "text": "pwd.",
+        "correct": true
+      },
+      {
+        "text": "dir.",
+        "correct": false
+      },
+      {
+        "text": "cd.",
+        "correct": false
+      },
+      {
+        "text": "path.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'ls -la' buyrug'i Linux'da nima ko'rsatadi?",
+    "answers": [
+      {
+        "text": "Faqat yashirin fayllarni.",
+        "correct": false
+      },
+      {
+        "text": "Faqat kataloglarni.",
+        "correct": false
+      },
+      {
+        "text": "Yashirin fayllar bilan barcha fayllarning batafsil ro'yxatini.",
+        "correct": true
+      },
+      {
+        "text": "Faqat katta fayllarni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows'da 'ipconfig' buyrug'i nima uchun ishlatiladi?",
+    "answers": [
+      {
+        "text": "Jarayonlarni to'xtatish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Disk hajmini ko'rish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq interfeyslarining IP konfiguratsiyasini ko'rish uchun.",
+        "correct": true
+      },
+      {
+        "text": "Kompyuterni o'chirish uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'sudo' buyrug'i Linux'da nima uchun ishlatiladi?",
+    "answers": [
+      {
+        "text": "Faylni siqish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Dasturni uninstall qilish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Buyruqni administrator (root) huquqi bilan bajarish uchun.",
+        "correct": true
+      },
+      {
+        "text": "Tarmoqni sozlash uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jarayon va dastur (Program) o'rtasidagi farq nimada?",
+    "answers": [
+      {
+        "text": "Farq yo'q, ular bir xil tushuncha.",
+        "correct": false
+      },
+      {
+        "text": "Dastur — passiv ko'rsatmalar to'plami, jarayon — faol ijro etilayotgan holat.",
+        "correct": true
+      },
+      {
+        "text": "Dastur tezroq ishlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Jarayon diskda saqlanadi, dastur xotirada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Ko'p oqimlilik' (Multithreading) nima?",
+    "answers": [
+      {
+        "text": "Bir nechta protsessordan foydalanish.",
+        "correct": false
+      },
+      {
+        "text": "Bir nechta dasturni ketma-ket ishlatish.",
+        "correct": false
+      },
+      {
+        "text": "Bir nechta kompyuterni tarmoqqa ulash.",
+        "correct": false
+      },
+      {
+        "text": "Bitta jarayon ichida bir nechta vazifalarni parallel bajarish usuli.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jarayonning 'Kutish' (Blocked/Waiting) holatiga tushishiga nima sabab bo'lishi mumkin?",
+    "answers": [
+      {
+        "text": "Disk xatosi.",
+        "correct": false
+      },
+      {
+        "text": "Xotiraning to'lib qolishi.",
+        "correct": false
+      },
+      {
+        "text": "Kiritish-chiqarish amali (masalan, diskdan ma'lumot o'qish) yakunlanishini kutish.",
+        "correct": true
+      },
+      {
+        "text": "Protsessor haddan tashqari isib ketishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows'da 'Digital Signature' (Raqamli imzo) drayverlar uchun nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Drayverni siqib arxivlash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Drayverning xavfsizligi va ishonchli ishlab chiqaruvchi tomonidan yaratilganini tasdiqlash uchun.",
+        "correct": true
+      },
+      {
+        "text": "Drayver versiyasini ko'rsatish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Drayverni tezroq yuklab olish uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qurilma drayverini 'Roll Back' (Orqaga qaytarish) funksiyasi nima qiladi?",
+    "answers": [
+      {
+        "text": "Kompyuter zavod sozlamalariga qaytariladi.",
+        "correct": false
+      },
+      {
+        "text": "Yangi drayver xato berganda, avvalgi ishlayotgan versiyaga qaytadi.",
+        "correct": true
+      },
+      {
+        "text": "Yangi drayver versiyasi yuklanadi.",
+        "correct": false
+      },
+      {
+        "text": "Drayver to'liq o'chiriladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows 'System Information' (msinfo32) vositasi nima uchun xizmat qiladi?",
+    "answers": [
+      {
+        "text": "Fayllarni zaxiralash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoqni optimizatsiya qilish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Viruslarni aniqlash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Apparat vositalari va drayverlar haqida batafsil texnik ma'lumot olish uchun.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xotirani boshqarishda 'Segmentatsiya' va 'Sahifalash' (Paging) o'rtasidagi asosiy farq nima?",
+    "answers": [
+      {
+        "text": "Segmentatsiya tezroq ishlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Sahifalash mantiqiy, segmentatsiya fizik bo'ladi.",
+        "correct": false
+      },
+      {
+        "text": "Sahifalash fizik xotirani teng bo'laklarga, segmentatsiya mantiqiy bo'laklarga bo'ladi.",
+        "correct": true
+      },
+      {
+        "text": "Ikkalasi ham bir xil usulda ishlaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Thrashing' (Xotira bo'roni) holati nima?",
+    "answers": [
+      {
+        "text": "Tizim foydali ish bajarish o'rniga barcha vaqtini sahifalarni disk va RAM o'rtasida almashishga sarflashi.",
+        "correct": true
+      },
+      {
+        "text": "Diskdagi ma'lumotlarning yo'qolishi.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq ulanishining uzilishi.",
+        "correct": false
+      },
+      {
+        "text": "Protsessorning haddan tashqari isib ketishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Virtual xotira ishlatilganda, qaysi qurilmaning tezligi tizim unumdorligiga ko'proq ta'sir qiladi?",
+    "answers": [
+      {
+        "text": "Qattiq disk (HDD/SSD) tezligi.",
+        "correct": true
+      },
+      {
+        "text": "Tarmoq kartasi tezligi.",
+        "correct": false
+      },
+      {
+        "text": "Klaviatura tezligi.",
+        "correct": false
+      },
+      {
+        "text": "Monitor tezligi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Memory Leak' (Xotira oqishi) nima?",
+    "answers": [
+      {
+        "text": "RAM ning fizik shikastlanishi.",
+        "correct": false
+      },
+      {
+        "text": "Dastur xotirani band qilib, ishini tugatgandan so'ng uni OTga qaytarib bermasligi.",
+        "correct": true
+      },
+      {
+        "text": "Xotirani tashqaridan o'g'irlash.",
+        "correct": false
+      },
+      {
+        "text": "Virtual xotiraning o'chirilishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fayl tizimidagi 'Journaling' (Jurnallash) xususiyati nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Fayllarni shifrlash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Disk hajmini kamaytirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi faoliyatini kuzatish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tizim to'satdan o'chib qolganda fayllar yaxlitligini tezda tiklash uchun.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "'Fragmentation' (Fragmentatsiya) qattiq disk (HDD) ishiga qanday ta'sir qiladi?",
+    "answers": [
+      {
+        "text": "Diskdagi ma'lumotlar yo'qoladi.",
+        "correct": false
+      },
+      {
+        "text": "Disk umuman ishlamay qoladi.",
+        "correct": false
+      },
+      {
+        "text": "Disk hajmi kichrayadi.",
+        "correct": false
+      },
+      {
+        "text": "Disk kallagining ko'p harakatlanishi hisobiga ma'lumot o'qish tezligini pasaytiradi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi fayl tizimlaridan qaysi biri Linux oilasiga mansub?",
+    "answers": [
+      {
+        "text": "HFS+.",
+        "correct": false
+      },
+      {
+        "text": "NTFS.",
+        "correct": false
+      },
+      {
+        "text": "Ext4.",
+        "correct": true
+      },
+      {
+        "text": "FAT32.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bulutli OTlarda 'Virtualizatsiya' texnologiyasi nima uchun markaziy o'rin tutadi?",
+    "answers": [
+      {
+        "text": "Fayllarni siqish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Internetni tezlashtirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Ekran ko'rinishini yaxshilash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Bitta fizik serverda bir nechta mustaqil virtual mashinalarni ishlatish uchun.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Bulutli xizmat turlaridan biri bo'lgan PaaS (Platform as a Service) nima beradi?",
+    "answers": [
+      {
+        "text": "Faqat tarmoq xizmatini beradi.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchilarga tayyor dasturlar beradi.",
+        "correct": false
+      },
+      {
+        "text": "Dasturchilar uchun ilovalar yaratish va joylashtirish muhitini beradi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat saqlash xizmatini beradi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Zararli dastur' (Malware) deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "Ishlamay qolgan oddiy dastur.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuterga zarar yetkazish yoki ma'lumotlarni o'g'irlash uchun yaratilgan har qanday dastur.",
+        "correct": true
+      },
+      {
+        "text": "Ko'p resurs sarflaydigan dastur.",
+        "correct": false
+      },
+      {
+        "text": "Litsenziyasiz o'rnatilgan dastur.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Access Control List' (ACL) nima?",
+    "answers": [
+      {
+        "text": "Tarmoqda kirish nuqtalarining ro'yxati.",
+        "correct": false
+      },
+      {
+        "text": "Har bir obyektga (faylga) kimlar qanday huquq bilan kira olishini belgilovchi ro'yxat.",
+        "correct": true
+      },
+      {
+        "text": "Drayverlar ro'yxati.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchilar ro'yxati.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Phishing' (Fishing) hujumi qanday amalga oshiriladi?",
+    "answers": [
+      {
+        "text": "Kompyuterni fizik o'g'irlash orqali.",
+        "correct": false
+      },
+      {
+        "text": "Soxta xabarlar orqali foydalanuvchini aldab, shaxsiy ma'lumotlarini qo'lga kiritish orqali.",
+        "correct": true
+      },
+      {
+        "text": "Parollarni kuch bilan topish (brute force) orqali.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq trafigini ushlab olish orqali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OT xavfsizligida 'Litsenziya' nima uchun muhim?",
+    "answers": [
+      {
+        "text": "Dasturni ko'paytirish huquqini berish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi parolini himoya qilish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuterning ishlash tezligini oshirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Rasmiy yangilanishlar va xavfsizlik tuzatishlarini (patches) olish uchun.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Linuxda barcha qurilmalar (printer, disk) nima ko'rinishida tasvirlanadi?",
+    "answers": [
+      {
+        "text": "Jarayon ko'rinishida.",
+        "correct": false
+      },
+      {
+        "text": "Fayl ko'rinishida (Linux falsafasiga ko'ra: 'everything is a file').",
+        "correct": true
+      },
+      {
+        "text": "Papka (katalog) ko'rinishida.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq manzili ko'rinishida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux distributivi deganda nima tushuniladi?",
+    "answers": [
+      {
+        "text": "Linux'ning faqat server versiyasi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat Linux yadrosi.",
+        "correct": false
+      },
+      {
+        "text": "Linux yadrosi va amaliy dasturlar jamlangan tayyor OT (masalan, Ubuntu, Debian).",
+        "correct": true
+      },
+      {
+        "text": "Linux uchun yozilgan bitta dastur.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linuxda 'Desktop Environment' (GNOME, KDE) nima?",
+    "answers": [
+      {
+        "text": "Tarmoq boshqaruv tizimi.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi uchun mo'ljallangan grafik interfeys qobig'i.",
+        "correct": true
+      },
+      {
+        "text": "Linux yadrosi.",
+        "correct": false
+      },
+      {
+        "text": "Disk formatlash vositasi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "MacOS operatsion tizimining 'Time Machine' funksiyasi nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Soat mintaqasini sozlash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Vaqtni ko'rsatuvchi vidjet.",
+        "correct": false
+      },
+      {
+        "text": "Eski fayllarni avtomatik o'chirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tizim va fayllarning zaxira nusxasini (Backup) yaratish uchun.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "MacOS'da 'AirDrop' funksiyasi nima?",
+    "answers": [
+      {
+        "text": "Fayllarni avtomatik zaxiralash xizmati.",
+        "correct": false
+      },
+      {
+        "text": "Bluetooth qurilmalarini boshqarish vositasi.",
+        "correct": false
+      },
+      {
+        "text": "Apple qurilmalari o'rtasida simsiz ma'lumot almashish texnologiyasi.",
+        "correct": true
+      },
+      {
+        "text": "Bulutli saqlash tizimi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "MacOS asosan qaysi dasturlash tillarida yozilgan dasturlarni oson ishlatadi?",
+    "answers": [
+      {
+        "text": "PHP va JavaScript.",
+        "correct": false
+      },
+      {
+        "text": "Python va Java.",
+        "correct": false
+      },
+      {
+        "text": "Swift va Objective-C.",
+        "correct": true
+      },
+      {
+        "text": "C# va .NET.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sandboxing texnologiyasi nima?",
+    "answers": [
+      {
+        "text": "Har bir ilovani alohida xavfsiz muhitda, boshqa ilovalarga ta'sir qilmagan holda ishlatish.",
+        "correct": true
+      },
+      {
+        "text": "Disk ma'lumotlarini shifrlash usuli.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq xavfsizligini ta'minlash usuli.",
+        "correct": false
+      },
+      {
+        "text": "Fayllarni siqib arxivlash texnologiyasi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Android OTda 'Root' huquqini olish nimani anglatadi?",
+    "answers": [
+      {
+        "text": "Qurilmani zavod sozlamalariga qaytarish.",
+        "correct": false
+      },
+      {
+        "text": "Tizimning barcha qismlariga (administratorlik) to'liq kirish huquqini olish.",
+        "correct": true
+      },
+      {
+        "text": "Yangi dastur o'rnatish uchun ruxsat olish.",
+        "correct": false
+      },
+      {
+        "text": "Qurilma kafolotini uzaytirish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "iOS tizimining yopiqligi (Closed Source) nima beradi?",
+    "answers": [
+      {
+        "text": "Dasturlarni bepul tarqatish imkoniyati.",
+        "correct": false
+      },
+      {
+        "text": "Istalgan qurilmada ishlash imkoniyati.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchiga kodni o'zgartirish huquqi.",
+        "correct": false
+      },
+      {
+        "text": "Yuqori darajadagi xavfsizlik va apparat bilan qat'iy optimizatsiya.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Chrome OS qaysi turdagi foydalanuvchilar uchun eng mos keladi?",
+    "answers": [
+      {
+        "text": "Murakkab 3D o'yinlar o'ynaydigan foydalanuvchilar.",
+        "correct": false
+      },
+      {
+        "text": "Kuchli dasturlash muhitiga muhtoj dasturchilar.",
+        "correct": false
+      },
+      {
+        "text": "Professional video montaj qiluvchilar.",
+        "correct": false
+      },
+      {
+        "text": "Asosan veb-brauzer va bulutli xizmatlarda ishlovchilar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Chrome OS'da an'anaviy '.exe' dasturlari ishlaydimi?",
+    "answers": [
+      {
+        "text": "Ha, barcha exe fayllar ishlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Ha, faqat maxsus rejimda.",
+        "correct": false
+      },
+      {
+        "text": "Yo'q, u asosan veb-ilovalar va Android ilovalarini qo'llaydi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat eski versiyalarda ishlaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Deadlock' (Tupik) holatini oldini olish uchun nima qilinadi?",
+    "answers": [
+      {
+        "text": "RAM hajmi oshiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Resurslarni taqsimlashda qat'iy ierarxiya yoki maxsus algoritmlar qo'llaniladi.",
+        "correct": true
+      },
+      {
+        "text": "Kompyuter o'chirib yoqiladi.",
+        "correct": false
+      },
+      {
+        "text": "Barcha jarayonlar bir vaqtda to'xtatiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Faylning 'Metadata'si nima?",
+    "answers": [
+      {
+        "text": "Fayl ichidagi asosiy ma'lumotlar.",
+        "correct": false
+      },
+      {
+        "text": "Faylning zaxira nusxasi.",
+        "correct": false
+      },
+      {
+        "text": "Fayl haqidagi ma'lumotlar (hajmi, turi, yaratilgan vaqti).",
+        "correct": true
+      },
+      {
+        "text": "Faylni shifrlash kaliti.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Shell' (Qobiq) va 'GUI' o'rtasidagi bog'liqlik qanday?",
+    "answers": [
+      {
+        "text": "Ular bir-biridan butunlay mustaqil tizimlar.",
+        "correct": false
+      },
+      {
+        "text": "GUI tezroq, Shell esa sekinroq ishlaydi.",
+        "correct": false
+      },
+      {
+        "text": "Shell yadroning bir qismi, GUI esa alohida dastur.",
+        "correct": false
+      },
+      {
+        "text": "Ikkalasi ham foydalanuvchi buyruqlarini yadroga (Kernel) yetkazuvchi interfeysdir.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sichqoncha kursorining harakati OTda qanday qayta ishlanadi?",
+    "answers": [
+      {
+        "text": "Kesh xotira orqali.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq signallari yordamida.",
+        "correct": false
+      },
+      {
+        "text": "Uzilishlar (Interrupts) va drayverlar yordamida koordinatalar sifatida.",
+        "correct": true
+      },
+      {
+        "text": "Foydalanuvchi ko'rsatmalariga to'g'ridan-to'g'ri javob berish orqali.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'GUI' (Graphical User Interface) atamasi birinchi bo'lib qayerda ommalashgan?",
+    "answers": [
+      {
+        "text": "IBM kompaniyasida.",
+        "correct": false
+      },
+      {
+        "text": "Xerox PARC laboratoriyasi va keyinchalik Apple Macintosh'da.",
+        "correct": true
+      },
+      {
+        "text": "Bell Laboratories da.",
+        "correct": false
+      },
+      {
+        "text": "Microsoft laboratoriyasida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Multiprogramming'ning asosiy maqsadi nima?",
+    "answers": [
+      {
+        "text": "Protsessorning bo'sh turib qolish vaqtini kamaytirish (CPU utilization).",
+        "correct": true
+      },
+      {
+        "text": "Disk bo'sh joyini tejash.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq trafigini boshqarish.",
+        "correct": false
+      },
+      {
+        "text": "Ko'p foydalanuvchiga xizmat ko'rsatish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dasturning 'Kompilyatsiya' qilinishi nima?",
+    "answers": [
+      {
+        "text": "Dasturni tarmoqqa yuklash jarayoni.",
+        "correct": false
+      },
+      {
+        "text": "Dasturlash tilidagi kodni kompyuter tushunadigan mashina kodiga aylantirish.",
+        "correct": true
+      },
+      {
+        "text": "Dasturni diskdan xotirada joylashtirish.",
+        "correct": false
+      },
+      {
+        "text": "Dasturni sinxronlashtirish jarayoni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Cold Boot (Sovuq yuklanish) nima?",
+    "answers": [
+      {
+        "text": "Kompyuterni qayta ishga tushirish (Restart).",
+        "correct": false
+      },
+      {
+        "text": "Kompyuterga yangi OT o'rnatish.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuterni to'liq o'chgan holatidan yoqish.",
+        "correct": true
+      },
+      {
+        "text": "Kompyuterni uxlatish rejimiga qo'yish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Warm Boot' (Issiq yuklanish) nima?",
+    "answers": [
+      {
+        "text": "Kompyuterni uxlatish rejimidan uyg'otish.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuterni to'liq o'chirib yoqish.",
+        "correct": false
+      },
+      {
+        "text": "Operatsion tizimni o'chirmasdan qayta yuklash (Restart).",
+        "correct": true
+      },
+      {
+        "text": "OTni yangi versiyaga yangilash.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Open Source OTning eng katta xavfi nima bo'lishi mumkin?",
+    "answers": [
+      {
+        "text": "Tarmoqsiz ishlash imkoniyati yo'qligi.",
+        "correct": false
+      },
+      {
+        "text": "Grafik interfeysning yo'qligi.",
+        "correct": false
+      },
+      {
+        "text": "Kod ochiqligi sababli zaifliklarni topish osonligi (lekin ular tez tuzatiladi).",
+        "correct": true
+      },
+      {
+        "text": "Narxi ko'p bo'lishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows operatsion tizimida 'Safe Mode' (Xavfsiz rejim) nima uchun kerak?",
+    "answers": [
+      {
+        "text": "Tarmoqni o'chirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tizim xatolarini eng zarur drayverlar bilan yuklab aniqlash va tuzatish uchun.",
+        "correct": true
+      },
+      {
+        "text": "Dasturlarni tezroq ishlatish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Xotira hajmini oshirish uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "MacOS'da 'Spotlight' nima?",
+    "answers": [
+      {
+        "text": "Tizim yangilanishlarini tekshirish vositasi.",
+        "correct": false
+      },
+      {
+        "text": "Ekranni yozib olish vositasi.",
+        "correct": false
+      },
+      {
+        "text": "Tizim bo'ylab tezkor qidiruv vositasi.",
+        "correct": true
+      },
+      {
+        "text": "Ekran yorqinligini boshqarish vositasi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Context Switching' (Kontekstni almashtirish) nima?",
+    "answers": [
+      {
+        "text": "Protsessorning bir jarayondan ikkinchisiga o'tishi va joriy holatni saqlab qolishi.",
+        "correct": true
+      },
+      {
+        "text": "Foydalanuvchi interfeysini o'zgartirish.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq protokolini almashtirish.",
+        "correct": false
+      },
+      {
+        "text": "Disk sektorini almashtirish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Android smartfonlarda 'Cache'ni tozalash nima beradi?",
+    "answers": [
+      {
+        "text": "Telefon doimiy ravishda tezlashadi.",
+        "correct": false
+      },
+      {
+        "text": "Barcha fayllar o'chirib tashlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Telefon protsessorini yangilaydi.",
+        "correct": false
+      },
+      {
+        "text": "Vaqtinchalik fayllarni o'chirib, xotirani biroz bo'shatadi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Windows 11 tizimining minimal talablaridan biri TPM 2.0 nima?",
+    "answers": [
+      {
+        "text": "Xavfsizlik bilan bog'liq apparat moduli (maxsus mikrosxema).",
+        "correct": true
+      },
+      {
+        "text": "Tarmoq qurilmasi.",
+        "correct": false
+      },
+      {
+        "text": "Grafik karta standarti.",
+        "correct": false
+      },
+      {
+        "text": "Protsessor arxitekturasi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OT rivojlanishining 'Birinchi davri' (1945–1955) uchun nima xos?",
+    "answers": [
+      {
+        "text": "Shaxsiy kompyuterlarning tarqalishi.",
+        "correct": false
+      },
+      {
+        "text": "Tranzistorlar va ilk OTlarning paydo bo'lishi.",
+        "correct": false
+      },
+      {
+        "text": "Integral sxemalar va ko'p foydalanuvchilik.",
+        "correct": false
+      },
+      {
+        "text": "Elektron lampalar va operatsion tizimlarning yo'qligi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Sinxron' va 'Asinxron' amallar farqi nimada?",
+    "answers": [
+      {
+        "text": "Sinxron amal javobni kutadi, asinxron esa kutmasdan ishini davom ettiradi.",
+        "correct": true
+      },
+      {
+        "text": "Farq yo'q, ular bir xil tushuncha.",
+        "correct": false
+      },
+      {
+        "text": "Asinxron faqat tarmoq uchun, sinxron esa disk uchun.",
+        "correct": false
+      },
+      {
+        "text": "Sinxron amal tezroq, asinxron sekinroq.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Dual-boot' tizimi nima?",
+    "answers": [
+      {
+        "text": "Ikki monitorli kompyuter sozlamasi.",
+        "correct": false
+      },
+      {
+        "text": "Ikki protsessorli kompyuter tizimi.",
+        "correct": false
+      },
+      {
+        "text": "Ikki xil brauzer o'rnatish.",
+        "correct": false
+      },
+      {
+        "text": "Bitta kompyuterga ikkita OT o'rnatish (masalan, Windows va Linux).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Process Tree' (Jarayonlar daraxti) nimani ko'rsatadi?",
+    "answers": [
+      {
+        "text": "Jarayonlar va ularning o'zaro bog'liqlik ierarxiyasini.",
+        "correct": true
+      },
+      {
+        "text": "Disk fayl tuzilmasini.",
+        "correct": false
+      },
+      {
+        "text": "Xotira xaritasini.",
+        "correct": false
+      },
+      {
+        "text": "Tarmoq topologiyasini.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linuxda 'Superuser' (Root) paroli nima uchun so'raladi?",
+    "answers": [
+      {
+        "text": "Oddiy fayllarni o'qish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tizim fayllarini o'zgartirish yoki yangi dastur o'rnatish kabi muhim amallar uchun.",
+        "correct": true
+      },
+      {
+        "text": "Tarmoqqa ulanish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Rasm fayllarini ochish uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Post-PC' davri deganda nima tushuniladi?",
+    "answers": [
+      {
+        "text": "Kompyuterlardan butunlay voz kechilgan davr.",
+        "correct": false
+      },
+      {
+        "text": "Smartfon va planshetlar asosiy hisoblash qurilmalariga aylangan davr.",
+        "correct": true
+      },
+      {
+        "text": "Faqat serverlar ishlagan davr.",
+        "correct": false
+      },
+      {
+        "text": "Shaxsiy kompyuterlar ixtiro qilingan davr.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizim yadrosi qayerda saqlanadi?",
+    "answers": [
+      {
+        "text": "Internet serverlarida saqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Faqat operativ xotirada saqlanadi.",
+        "correct": false
+      },
+      {
+        "text": "Diskda saqlanadi, lekin tizim ishlayotganda operativ xotirada bo'ladi.",
+        "correct": true
+      },
+      {
+        "text": "Faqat protsessor keshida saqlanadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'Multitasking' (Ko'p vazifalilik) samaradorligini nima belgilaydi?",
+    "answers": [
+      {
+        "text": "Monitor o'lchami va piksel soni.",
+        "correct": false
+      },
+      {
+        "text": "Internet tezligi.",
+        "correct": false
+      },
+      {
+        "text": "Klaviatura turi.",
+        "correct": false
+      },
+      {
+        "text": "Protsessor tezligi va operativ xotira (RAM) hajmi.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "'Cloud Storage' (Bulutli saqlash) foydasi nimada?",
+    "answers": [
+      {
+        "text": "Internet talab qilinmaydi.",
+        "correct": false
+      },
+      {
+        "text": "Ma'lumotlarga istalgan qurilmadan internet orqali kirish imkoniyati.",
+        "correct": true
+      },
+      {
+        "text": "Ma'lumotlar tezroq yuklanadi.",
+        "correct": false
+      },
+      {
+        "text": "Ma'lumotlar hech qachon yo'qolmaydi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows operatsion tizimining 'Blue Screen of Death' (BSOD) nima?",
+    "answers": [
+      {
+        "text": "Tizimda tiklab bo'lmaydigan jiddiy xatolik yuz berganini bildiruvchi ekran.",
+        "correct": true
+      },
+      {
+        "text": "Ekran tozalash rejimi.",
+        "correct": false
+      },
+      {
+        "text": "Yangi Windows versiyasi o'rnatilishi.",
+        "correct": false
+      },
+      {
+        "text": "Uxlash rejimi ko'rinishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nima uchun OTda xotirani 'Ierarxiya' asosida tashkil etishadi?",
+    "answers": [
+      {
+        "text": "Tarmoq tezligini oshirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Xotirani ko'paytirish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Foydalanuvchi qulayligi uchun.",
+        "correct": false
+      },
+      {
+        "text": "Tezlik va narx o'rtasidagi muvozanatni saqlash uchun.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "'Plug and Play' tizimi ishlamasa nima qilish kerak?",
+    "answers": [
+      {
+        "text": "Drayverni qo'lda (manual) o'rnatish kerak.",
+        "correct": true
+      },
+      {
+        "text": "Kompyuterni qayta formatlash kerak.",
+        "correct": false
+      },
+      {
+        "text": "OTni qayta o'rnatish kerak.",
+        "correct": false
+      },
+      {
+        "text": "Qurilmani qaytarib berish kerak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "OTda 'Spooler' xizmati to'xtatilsa nima bo'ladi?",
+    "answers": [
+      {
+        "text": "Printer hujjatlarni chop etishga qabul qilmaydi.",
+        "correct": true
+      },
+      {
+        "text": "Barcha fayllar o'chiriladi.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter o'chib qoladi.",
+        "correct": false
+      },
+      {
+        "text": "Internet ulanishi uziladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimlar fanini o'rganish nima uchun muhim?",
+    "answers": [
+      {
+        "text": "Faqat tarmoqchi bo'lish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Faqat video o'yinlar o'rnatish uchun.",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter qanday ishlashini tushunish va muammolarni professional yechish uchun.",
+        "correct": true
+      },
+      {
+        "text": "Faqat dasturchi bo'lish uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Operatsion tizimda 'Paging' jarayonida 'Page Fault' nima?",
+    "answers": [
+      {
+        "text": "Sahifani chop etishda xatolik.",
+        "correct": false
+      },
+      {
+        "text": "So'ralayotgan sahifa operativ xotirada (RAM) yo'qligi va uni diskdan yuklash kerakligi.",
+        "correct": true
+      },
+      {
+        "text": "Brauzer sahifasining yuklanmasligi.",
+        "correct": false
+      },
+      {
+        "text": "Disk sahifasining fizik shikastlanishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "'GUI' va 'CLI' dan tashqari, hozirgi kunda qaysi interfeys turi keng ommalashmoqda?",
+    "answers": [
+      {
+        "text": "VUI (Voice User Interface) faqat.",
+        "correct": false
+      },
+      {
+        "text": "NUI (Natural User Interface) — ovoz, imo-ishora va sensor orqali boshqarish.",
+        "correct": true
+      },
+      {
+        "text": "TUI (Text User Interface).",
+        "correct": false
+      },
+      {
+        "text": "API (Application Programming Interface).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows operatsion tizimida 'Clean Install' nima?",
+    "answers": [
+      {
+        "text": "Keraksiz fayllarni tozalash.",
+        "correct": false
+      },
+      {
+        "text": "Eski barcha ma'lumotlarni o'chirib, OTni noldan yangi bo'limga o'rnatish.",
+        "correct": true
+      },
+      {
+        "text": "OTni yangi versiyaga yangilash.",
+        "correct": false
+      },
+      {
+        "text": "Viruslarni o'chirish jarayoni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hypervisor (Gipervizor) dasturining asosiy vazifasi nima?",
+    "answers": [
+      {
+        "text": "Virtual mashinalarni yaratish va ularning apparat resurslaridan foydalanishini boshqarish.",
+        "correct": true
+      },
+      {
+        "text": "Tarmoqni himoya qilish.",
+        "correct": false
+      },
+      {
+        "text": "Fayllarni siqish va arxivlash.",
+        "correct": false
+      },
+      {
+        "text": "Protsessor tezligini oshirish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tarixdagi ilk GUI ga ega kompyuter qaysi?",
+    "answers": [
+      {
+        "text": "Xerox Alto (1973-yil).",
+        "correct": true
+      },
+      {
+        "text": "IBM PC (1981-yil).",
+        "correct": false
+      },
+      {
+        "text": "Apple Macintosh (1984-yil).",
+        "correct": false
+      },
+      {
+        "text": "Microsoft Windows 1.0 (1985-yil).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nima uchun zamonaviy OTlarda drayverlar yadro emas, foydalanuvchi rejimida ishlatiladi?",
+    "answers": [
+      {
+        "text": "Drayverdagi xatolik butun tizimni (yadroni) to'xtatib qo'ymasligi va xavfsizlik uchun.",
+        "correct": true
+      },
+      {
+        "text": "Xotiradan tejash uchun.",
+        "correct": false
+      },
+      {
+        "text": "Drayverni o'rnatish osonroq bo'lishi uchun.",
+        "correct": false
+      },
+      {
+        "text": "Drayverlar tezroq ishlashi uchun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Buyruq satri interfeysining (CLI) grafik interfeysdan (GUI) asosiy ustunligi nimada?",
+    "answers": [
+      {
+        "text": "Ko'proq dasturlarni qo'llab-quvvatlashi.",
+        "correct": false
+      },
+      {
+        "text": "Resurslarni kam iste'mol qilishi va skriptlar orqali avtomatlashtirish imkoniyati.",
+        "correct": true
+      },
+      {
+        "text": "O'rganish osonligi.",
+        "correct": false
+      },
+      {
+        "text": "Chiroyliroq ko'rinishi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Windows PowerShell va CMD (Command Prompt) o'rtasidagi farq nima?",
+    "answers": [
+      {
+        "text": "PowerShell ob'ektga yo'naltirilgan va kuchliroq skriptlash imkoniyatiga ega.",
+        "correct": true
+      },
+      {
+        "text": "CMD zamonaviyroq va kuchliroq.",
+        "correct": false
+      },
+      {
+        "text": "PowerShell faqat Linux uchun.",
+        "correct": false
+      },
+      {
+        "text": "Ular bir xil, faqat nomi farq qiladi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Linux terminalida 'mkdir' buyrug'i nima vazifani bajaradi?",
+    "answers": [
+      {
+        "text": "Katalogni o'chiradi.",
+        "correct": false
+      },
+      {
+        "text": "Fayl yaratadi.",
+        "correct": false
+      },
+      {
+        "text": "Katalog ichidagi fayllarni ko'rsatadi.",
+        "correct": false
+      },
+      {
+        "text": "Yangi katalog (papka) yaratadi.",
+        "correct": true
+      }
+    ]
+  }
+]
