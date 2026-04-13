@@ -35,12 +35,12 @@
     &quot;assignee&quot;: &quot;ViKand011&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ViKand011/NDTU.git&quot;,
-    &quot;accountId&quot;: &quot;7d3f65fb-4fea-44b4-b2ac-d703414f5d96&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Asilbekadev/Nukus-Davlat-Texnika-Universiteti.git",
+    "accountId": "c5cfed9d-98ce-4c9a-afcc-b12870f92804"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
